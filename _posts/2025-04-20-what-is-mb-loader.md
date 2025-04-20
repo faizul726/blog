@@ -1,0 +1,110 @@
+---
+title: What is MB Loader and how to use it?
+date: 2025-04-20 17:00:00 +0600
+categories: [Minecraft, Modding]
+tags: [minecraft, bedrock, patched, shaders, mb loader, renderdragon]     # TAG names should always be lowercase
+---
+
+> MB Loader is still in experimental state.  
+> This guide will be updated as needed.
+{: .prompt-info }
+
+So, you probably already heard of Minecraft Patched being discontinued. Yes, it is for good. Because we now have a better alternative called **MB Loader**.  
+  
+MB Loader is an Android app originally made by bambosan and further improved by mcbegamerxx954. It is free and available for download on Play Store.  
+  
+### What is it?
+MB Loader uses Minecraft as a base, applies necessary changes on it and open the game completely separate from the Minecraft app. This means data is kept separately from Minecraft (worlds, texture packs or anything else won't show up on MB Loader).  
+
+
+> The Minecraft app has to meet some conditions:
+> * Not patched
+> * Not cloned
+> * Doesn't have any kind of modding
+> * Matches your device CPU architecture (scroll down for details)
+> * It doesn't matter whether it's from Play Store or cracked/pirated
+>
+> Otherwise it may cause MB Loader to crash. If you are confused about what these mean, scroll down.
+{: .prompt-warning }  
+
+
+### How it's different from patched app?
+MB Loader is better than patched app in many ways.  
+* It can be updated from Play Store
+* Just updating the Minecraft app works, no need to wait for patched app updates.
+* Requires less maintenance from developer. Means higher compatibility with future Minecraft versions.
+* Safe. As no third party sites are involved. (sorry youtubers with 100+ ad filled links)
+
+
+### How to use it?
+1. Read the requirements above
+2. Make sure you have Minecraft installed
+3. Download MB Loader from [here](https://play.google.com/store/apps/details?id=io.bambosan.mbloader)
+4. Open MB Loader app
+5. Click **Load with mbl2** (recommended) or **Load with draco**
+6. Now import a shader, activate in Settings -> Global Resources and it should work.
+
+### How to import texture packs/addons/worlds?
+1. Install ZArchiver from [here](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
+2. Click the `.mcpack`/`.mcaddon`/`.mcworld` file
+3. Click the diagonal arrow in the right side
+4. Scroll through the app list and click the MB Loader entry that has `IntentHandler` below (there will be 2 entries)
+5. It will open the app. Then click the load button you prefer among mbl2 and draco.
+6. Now it will open the game and your addon should be imported.
+
+> Of course there are more ways to import stuff like adding `.mcpack` extension or copying in Android folder.  
+> But, this is the most straight forward one and I am NOT going to show you the other ways just because some times you have to do more work to make it usable for Minecraft.
+>
+> Means those ways don't work 100% of the time.
+{: .prompt-warning }  
+
+
+### Frequently asked questions
+**Q. Why patched app is discontinued?**  
+A. It's harder to maintain from a developer perspective. Which often causes delayed updates. On the other hand, both MB Loader and Minecraft can be updated easily.  
+
+**Q. Is it safe?**  
+A. Yes it is. Every app goes through extensive testing before it's publicly available on Play Store.
+
+**Q. Why does it say "This app is frequently uninstalled compared to others on Play"?**  
+A. MB Loader was very unstable when it was released. Which caused many users to uninstall it right away because it doesn't work.  
+
+**Q. Why stuff from Minecraft is not shown in MB Loader?**  
+A. Limitations. Android doesn't allow one app to see/modify files from other apps. So, MB Loader is separate.  
+
+**Q. What's the difference between `mbl2` and `draco`?**  
+A. Both do the same thing that is loading shaders. Here's the differences...  
+
+|                                       | MBL2                                                                                                      | Draco                                                                      |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Compatibility with Minecraft          | Low<br/>May not work right away when Minecraft is updated<br/>In that case MB Loader will need an update. | High<br/>As long as Minecraft doesn't receive major shader related changes |
+| Chance of shaders working             | High                                                                                                      | Low<br/>Some devices may not load shaders at all.                          |
+| Can bypass server shader restriction? | No                                                                                                        | Yes, partially                                                             |
+| Supports world resource packs?        | Yes                                                                                                       | No, only **Global resources** are supported                                |
+
+**Q. What does "matching CPU architecture" mean?**  
+A. In case you didn't know already, Android devices also have 64/32 bit stuff. So does Minecraft.  
+MB Loader expects the game to be the same one as your device CPU architecture. Otherwise it can't work.  
+You don't have to worry about this if you bought the game already. Since Play Store automatically downloads whatever is suitable for your device.  
+If you are a pirate who uses cracked apk then know that **most** apks out there are 32 bit. So when you try to use it with MB Loader on your 64 bit device, MB Loader will show architecture mismatch error.  
+I am NOT going to explain from where you can get 64 bit apks, that's up to you.  
+
+Here's a trick, if you have more than 4 GB (your ram > 4) be assured your device is 64 bit. As 32 bit devices can't handle more than 4 GB of RAM.  
+If you want to be sure about what your device supports, you can use [64Bit Checker app](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker) to find out.
+
+**Q. What does "not patched" means?**  
+A. Opposite of patched. Minecraft that doesn't load any shaders.  
+
+**Q. What does "not cloned" means?**  
+A. You don't have to worry about this if you have bought the game already. Many piracy sites provided cloned apks which can be installed alongside Minecraft as a separate app.  
+MB Loader doesn't support that.  
+
+**Q. Why MB Loader is exiting/crashing?**  
+A. It's still in somewhat experimental state so it's not guaranteed to be free from bugs.  
+You can help the developer to fix the issue by providing necessary details in `#mbl-chat` channel of [YSS Discord server](https://faizul726.github.io/yss-discord)  
+
+**Q. Why it's saying nativePath error or something like that?**  
+A. Known issue. Happens on devices from some manufacturers. Because of them heavily modifying how Android works. Best you can do is report it in the above Discord server.  
+
+**Q. Why it's saying architecture, arm-v8a stuff?**  
+A. Please read requirements from the beginning again and the 6th question.
