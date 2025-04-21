@@ -33,7 +33,7 @@ MB Loader uses Minecraft as a base, applies necessary changes on it and open the
 {: .prompt-warning }  
 
 
-### How it's different from patched app?
+## How it's different from patched app?
 MB Loader is better than patched app in many ways.  
 * It can be updated from Play Store
 * Just updating the Minecraft app works, no need to wait for patched app updates.
@@ -41,7 +41,7 @@ MB Loader is better than patched app in many ways.
 * Safe. As no third party sites are involved. (sorry youtubers with 100+ ad filled links)
 
 
-### How to use it?
+## How to use it?
 1. Read the requirements above
 2. Make sure you have Minecraft installed
 3. Download MB Loader from [here](https://play.google.com/store/apps/details?id=io.bambosan.mbloader)  
@@ -54,7 +54,7 @@ MB Loader is better than patched app in many ways.
 ![In game screenshot](20250420_what-is-mb-loader_4.png) 
 _Enjoy! I used YSS Shader here. It can be downloaded from their [Discord server](https://faizul726.github.io/yss-discord)_
 
-### How to import texture packs/addons/worlds?
+## How to import texture packs/addons/worlds?
 1. Install ZArchiver from [here](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 2. Click the `.mcpack`/`.mcaddon`/`.mcworld` file
 3. Click the diagonal arrow in the right side  
