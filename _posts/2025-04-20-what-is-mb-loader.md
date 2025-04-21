@@ -16,7 +16,7 @@ image:
 
 So, you probably already heard of Minecraft Patched being discontinued. Yes, it is for good. Because we now have a better alternative called **MB Loader**.  
   
-MB Loader is an Android app originally made by bambosan and further improved by mcbegamerxx954. It is free and available for download on Play Store.  
+MB Loader is an Android app originally made by [bambosan](https://github.com/bambosan/) and further improved by [mcbegamerxx954](https://github.com/mcbegamerxx954/). It is free and available for download on Play Store.  
   
 ### What is it?
 MB Loader uses Minecraft as a base, applies necessary changes on it and open the game completely separate from the Minecraft app. This means data is kept separately from Minecraft (worlds, texture packs or anything else won't show up on MB Loader).  
