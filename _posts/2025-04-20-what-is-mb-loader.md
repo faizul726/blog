@@ -3,6 +3,11 @@ title: What is MB Loader and how to use it?
 date: 2025-04-20 17:00:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, patched, shaders, mb loader, renderdragon]     # TAG names should always be lowercase
+media_subpath: /assets/images/
+
+image:
+  path: 20250420_what-is-mb-loader_0.png
+  alt: Minecraft-Font by IdreesInc on GitHub
 ---
 
 > MB Loader is still in experimental state.  
@@ -39,18 +44,27 @@ MB Loader is better than patched app in many ways.
 ### How to use it?
 1. Read the requirements above
 2. Make sure you have Minecraft installed
-3. Download MB Loader from [here](https://play.google.com/store/apps/details?id=io.bambosan.mbloader)
+3. Download MB Loader from [here](https://play.google.com/store/apps/details?id=io.bambosan.mbloader)  
+![Downloading from Play Store](20250420_what-is-mb-loader_1.png)
 4. Open MB Loader app
-5. Click **Load with mbl2** (recommended) or **Load with draco**
-6. Now import a shader, activate in Settings -> Global Resources and it should work.
+5. Click **Load with mbl2** (recommended) or **Load with draco**  
+![MB Loader app](20250420_what-is-mb-loader_2.png)
+6. Now import a shader, activate in Settings -> Global Resources.  
+![Activating in global resources](20250420_what-is-mb-loader_3.png)  
+![In game screenshot](20250420_what-is-mb-loader_4.png) 
+_Enjoy! I used YSS Shader here. It can be downloaded from their [Discord server](https://faizul726.github.io/yss-discord)_
 
 ### How to import texture packs/addons/worlds?
 1. Install ZArchiver from [here](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 2. Click the `.mcpack`/`.mcaddon`/`.mcworld` file
-3. Click the diagonal arrow in the right side
-4. Scroll through the app list and click the MB Loader entry that has `IntentHandler` below (there will be 2 entries)
-5. It will open the app. Then click the load button you prefer among mbl2 and draco.
-6. Now it will open the game and your addon should be imported.
+3. Click the diagonal arrow in the right side  
+![Activating in global resources](20250420_what-is-mb-loader_5.png)  
+4. Scroll through the app list and click the MB Loader entry that has `IntentHandler` below (there will be 2 entries)  
+![Activating in global resources](20250420_what-is-mb-loader_6.png)  
+5. It will open the app. Then click the load button you prefer among mbl2 and draco.  
+![MB Loader app](20250420_what-is-mb-loader_2.png)  
+6. Now it will open the game and your addon should be imported.  
+![Activating in global resources](20250420_what-is-mb-loader_7.png)  
 
 > Of course there are more ways to import stuff like adding `.mcpack` extension or copying in Android folder.  
 > But, this is the most straight forward one and I am NOT going to show you the other ways just because some times you have to do more work to make it usable for Minecraft.
@@ -106,5 +120,8 @@ You can help the developer to fix the issue by providing necessary details in `#
 **Q. Why it's saying nativePath error or something like that?**  
 A. Known issue. Happens on devices from some manufacturers. Because of them heavily modifying how Android works. Best you can do is report it in the above Discord server.  
 
-**Q. Why it's saying architecture, arm-v8a stuff?**  
-A. Please read requirements from the beginning again and the 6th question.
+**Q. Why it's saying architecture mismatch/arm-v8a stuff?**  
+A. Please read requirements from the beginning again and the 6th question.  
+
+**Q. Why I can't see app rating on Play Store?**  
+A. Apps that are in experimental state (early access) don't show ratings.
