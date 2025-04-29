@@ -73,7 +73,7 @@ _Enjoy! I used YSS Shader here. It can be downloaded from their [Discord server]
 {: .prompt-warning }  
 
 
-### Frequently asked questions
+## Frequently asked questions
 **Q. Why patched app is discontinued?**  
 A. It's harder to maintain from a developer perspective. Which often causes delayed updates. On the other hand, both MB Loader and Minecraft can be updated easily.  
 
