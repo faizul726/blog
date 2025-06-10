@@ -1,1 +1,0 @@
-C:/Users/Sufi/Desktop/Stuff/blog/_posts/2025-04-20-mb-loader.md
