@@ -8,7 +8,7 @@ media_subpath: /assets/2025-08-14-mcpelauncher-mod-installation/
 redirect_from:
   - /mcpelauncher-mod/
 
-image: _thumbnail.png
+image: hero.png
 ---
 
 
