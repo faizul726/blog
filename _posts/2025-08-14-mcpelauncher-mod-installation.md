@@ -8,7 +8,7 @@ media_subpath: /assets/2025-08-14-mcpelauncher-mod-installation/
 redirect_from:
   - /mcpelauncher-mod/
 
-image: hero.png
+image: thumbnail.png
 ---
 
 
@@ -71,6 +71,6 @@ A mod that disables hurt animation.
 [**mcpelauncher-strafe-sprint-fix** by CrackedMatter](https://github.com/CrackedMatter/mcpelauncher-strafe-sprint-fix/)  
 A mod that will fix diagonal sprinting bug that happens with Android x86 builds of Minecraft on Intel CPUs.  
 
-[**mcpelauncher-materialbinloader** by CrackedMatter](https://github.com/CrackedMatter/mcpelauncher-materialbinloader)
+[**mcpelauncher-materialbinloader** by CrackedMatter](https://github.com/CrackedMatter/mcpelauncher-materialbinloader)  
 A mod that allows user to load RenderDragon shaders from resource packs just like how old shaders worked in 1.18.12 and older versions.  
 Note that, it only supports RenderDragon shaders. Also the shader must support the game version, since it doesn't support auto updating shader.
