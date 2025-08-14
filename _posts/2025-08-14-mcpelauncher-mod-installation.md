@@ -1,6 +1,6 @@
 ---
 title: How to install mods on mcpelauncher? (Linux/Mac)
-date: 2025-08-14 11:30:00 +0600
+date: 2025-08-14 12:30:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, mcpelauncher]
 media_subpath: /assets/2025-08-14-mcpelauncher-mod-installation/
