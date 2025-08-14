@@ -9,7 +9,7 @@ redirect_from:
   - /mcpelauncher-mod/
 
 image:
-  path: _thumbnail.png
+  path: '_thumbnail.png'
 ---
 
 
