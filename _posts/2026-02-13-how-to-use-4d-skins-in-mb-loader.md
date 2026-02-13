@@ -5,7 +5,7 @@ categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, 4d, mb loader, skins]     # TAG names should always be lowercase
 media_subpath: /assets/2026-02-13-how-to-use-4d-skins-in-mb-loader/
 
-image: _thumbnail.png
+image: thumbnail.png
 ---
 
 Before I start I want to say that, 
