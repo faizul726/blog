@@ -22,6 +22,8 @@ tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names sho
 - [Impressive Shadows BE \[ISBE\] (unofficially updated)](https://github.com/MariallenaHax/ISBE-rd/releases/tag/v1.0.7)
 - [ESBE 1G (unofficially updated)](https://github.com/MariallenaHax/ESBE-1G-rd/releases/tag/v1.0.5)
 - [Rebuilt Shader (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1475365473075068948)
+- [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/files/7667370)
+- [Cubemap Utility RD (unofficially updated) (basically another fullbright)](https://discord.com/channels/844591537430069279/844591538025791492/1476831602096078848)
 - ESBE 2G (unofficially updated): N/A
 - [Spectrum Shader](https://www.mediafire.com/file/mmu67kj2ahm02ws/Spectrum_Shader_-_Merged.mcpack/file) 
 - [Musk Rose RD (unofficially updated)](https://github.com/faizul726/musk_rose_rd/releases/tag/v4.0)
