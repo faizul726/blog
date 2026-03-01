@@ -13,8 +13,10 @@ tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names sho
 > - All shaders here support Android, iOS, Windows with a single mcpack file, make sure to follow installation guide for your platform (for Android use MB Loader app from Google Play)
 > - I intentionally did not include shaders that only have different files for different platforms, as those end up creating more confusion
 > - N/A ones are not fully usable yet, so I didn't include link
+> - Some links go to our Discord servers, join the servers if you can't access link. [YSS Community](https://faizul726.github.io/yss-discord), [Newb Community](https://faizul726.github.io/newb-discord), [Bedrock Graphics](https://faizul726.github.io/bedrockgraphics-discord)
 {: .prompt-warning }
 
+- [YSS RD](https://discord.com/channels/1295088839710212266/1295092785321607168/1477667628322652302)
 - [Newb Classic (previously known as Newb X Legacy)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/files/7663150)
 - [Newb X Legacy v16 (old lighting) (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1476429707762471044)
 - [Newb Ambient (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1471057174888448184)
