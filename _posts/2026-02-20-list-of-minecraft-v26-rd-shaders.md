@@ -22,6 +22,7 @@ tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names sho
 - [Newb X Legacy v16 (old lighting) (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1476429707762471044)
 - [Newb Ambient (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1471057174888448184)
 - [Newb Reimagined](https://link-center.net/1158331/udWzCRhHtDfv)
+- [Newb X Manyzz](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-manyzz-merged-android-ios-windows/files/7705923)
 - [Impressive Shadows BE \[ISBE\] (unofficially updated)](https://github.com/MariallenaHax/ISBE-rd/releases/tag/v1.0.7)
 - [ESBE 1G (unofficially updated)](https://github.com/MariallenaHax/ESBE-1G-rd/releases/tag/v1.0.5)
 - [Rebuilt Shader (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1475365473075068948)
