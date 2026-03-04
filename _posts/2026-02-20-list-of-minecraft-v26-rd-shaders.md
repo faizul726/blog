@@ -14,6 +14,7 @@ tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names sho
 > - I intentionally did not include shaders that only have different files for different platforms, as those end up creating more confusion
 > - N/A ones are not fully usable yet, so I didn't include link
 > - Some links go to our Discord servers, join the servers if you can't access link. [YSS Community](https://faizul726.github.io/yss-discord), [Newb Community](https://faizul726.github.io/newb-discord), [Bedrock Graphics](https://faizul726.github.io/bedrockgraphics-discord)
+> - You can find some more shaders [here](https://discord.com/channels/844591537430069279/844591538025791492/1473639109795905536) that don't meet criterias to be included in this page
 {: .prompt-warning }
 
 - [YSS RD](https://discord.com/channels/1295088839710212266/1295092785321607168/1477667628322652302)
