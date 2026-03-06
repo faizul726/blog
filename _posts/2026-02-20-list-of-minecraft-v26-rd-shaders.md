@@ -20,6 +20,7 @@ tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names sho
 - [YSS RD](https://discord.com/channels/1295088839710212266/1295092785321607168/1477667628322652302)
 - [Newb Classic (previously known as Newb X Legacy)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/files/7663150)
 - [Newb X Legacy v16 (old lighting) (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1476429707762471044)
+- [Newb Explementary Edition](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/files/7705154)
 - [Newb Ambient (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1471057174888448184)
 - [Newb Reimagined](https://link-center.net/1158331/udWzCRhHtDfv)
 - [Newb X Manyzz](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-manyzz-merged-android-ios-windows/files/7705923)
