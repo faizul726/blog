@@ -1,12 +1,12 @@
 ---
-title: How to use RenderDragon shaders on Minecraft Bedrock [Android/iOS/Windows/Linux] [WIP]
+title: 'How to use RenderDragon shaders on Minecraft Bedrock [Android/iOS/Windows/Linux] [WIP]'
 date: 2026-03-12 17:00:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, shaders, renderdragon]     # TAG names should always be lowercase
 #media_subpath: /assets/2026-02-13-how-to-use-4d-skins-in-mb-loader/
 
 #image: thumbnail.png
-excerpt: [WIP] Guide on how to use RenderDragon shaders on some popular platforms
+excerpt: '[WIP] Guide on how to use RenderDragon shaders on some popular platforms'
 ---
 
 # What are RenderDragon shaders?
