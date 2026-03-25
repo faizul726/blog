@@ -6,7 +6,7 @@ tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names sho
 #media_subpath: /assets/2026-02-13-how-to-use-4d-skins-in-mb-loader/
 
 #image: thumbnail.png
-excerpt: List of RenderDragon shadrers that work on Minecraft v26.0 - v26.3
+excerpt: List of RenderDragon shaders that work on Minecraft v26.0 - v26.3
 ---
 
 > - This list is still work in progress!  
