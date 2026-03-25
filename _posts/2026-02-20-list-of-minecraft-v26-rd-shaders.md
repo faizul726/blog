@@ -1,12 +1,12 @@
 ---
-title: List of Minecraft v26.0 Compatible RenderDragon Shaders
+title: List of Minecraft v26.0 - v26.3 Compatible RenderDragon Shaders
 date: 2026-02-20 10:15:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names should always be lowercase
 #media_subpath: /assets/2026-02-13-how-to-use-4d-skins-in-mb-loader/
 
 #image: thumbnail.png
-excerpt: List of RenderDragon shadrers that work on Minecraft v26.0+
+excerpt: List of RenderDragon shadrers that work on Minecraft v26.0 - v26.3
 ---
 
 > - This list is still work in progress!  
@@ -23,7 +23,7 @@ excerpt: List of RenderDragon shadrers that work on Minecraft v26.0+
 - [Newb X Legacy v16 (old lighting) (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1476429707762471044)
 - [Newb Explementary Edition](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/files/7705154)
 - [Newb Ambient (unofficially updated)](https://discord.com/channels/844591537430069279/844591538025791492/1471057174888448184)
-- [Newb Reimagined](https://link-center.net/1158331/udWzCRhHtDfv)
+- [Newb Reimagined](https://github.com/alvyrei/newb-reimagined/releases/tag/16.11)
 - [Newb X Manyzz](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-manyzz-merged-android-ios-windows/files/7705923)
 - [Impressive Shadows BE \[ISBE\] (unofficially updated)](https://github.com/MariallenaHax/ISBE-rd/releases/tag/v1.0.7)
 - [ESBE 1G (unofficially updated)](https://github.com/MariallenaHax/ESBE-1G-rd/releases/tag/v1.0.5)
@@ -32,4 +32,4 @@ excerpt: List of RenderDragon shadrers that work on Minecraft v26.0+
 - [Cubemap Utility RD (unofficially updated) (basically another fullbright)](https://discord.com/channels/844591537430069279/844591538025791492/1476831602096078848)
 - ESBE 2G (unofficially updated): N/A
 - [Spectrum Shader](https://www.mediafire.com/file/mmu67kj2ahm02ws/Spectrum_Shader_-_Merged.mcpack/file) 
-- [Musk Rose RD (unofficially updated)](https://github.com/faizul726/musk_rose_rd/releases/tag/v4.0)
+- [Musk Rose RD (unofficially updated)](https://github.com/faizul726/musk_rose_rd/releases/tag/v4.0-patch1)
