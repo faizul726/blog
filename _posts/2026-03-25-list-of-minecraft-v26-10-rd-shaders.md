@@ -26,4 +26,6 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.10+
 - [Newb X Dawn](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn/download/7816121)
 - Newb X Dragon REIMAGINED: [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/7815977) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/7815961) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/7815974)
 - Newb X Ale: [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/7815945) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/7815943) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/7815944)
+- [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/tag/v1.0.6) (unofficially updated)
+- [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.0.8/ISBE_rd.mcpack) (unofficially updated)
 
