@@ -11,7 +11,6 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.10+
 
 > - This list is still work in progress!  
 > - Unofficially updated = Updated by someone other than the creator
-> - All shaders here support Android, iOS, Windows with a single mcpack file, make sure to follow installation guide for your platform (for Android use MB Loader app from Google Play)
 > - Shaders with single link support Android, iOS, Windows
 > - N/A ones are not fully usable yet, so I didn't include link
 > - Some links may go to our Discord servers, join the servers if you can't access link. [YSS Community](https://faizul726.github.io/yss-discord), [Newb Community](https://faizul726.github.io/newb-discord), [Bedrock Graphics](https://faizul726.github.io/bedrockgraphics-discord)
