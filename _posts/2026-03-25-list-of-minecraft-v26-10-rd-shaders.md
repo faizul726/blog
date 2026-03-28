@@ -12,10 +12,19 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.10+
 > - This list is still work in progress!  
 > - Unofficially updated = Updated by someone other than the creator
 > - All shaders here support Android, iOS, Windows with a single mcpack file, make sure to follow installation guide for your platform (for Android use MB Loader app from Google Play)
-> - I intentionally did not include shaders that only have different files for different platforms, as those end up creating more confusion
+> - Shaders with single link support Android, iOS, Windows
 > - N/A ones are not fully usable yet, so I didn't include link
-> - Some links go to our Discord servers, join the servers if you can't access link. [YSS Community](https://faizul726.github.io/yss-discord), [Newb Community](https://faizul726.github.io/newb-discord), [Bedrock Graphics](https://faizul726.github.io/bedrockgraphics-discord)
+> - Some links may go to our Discord servers, join the servers if you can't access link. [YSS Community](https://faizul726.github.io/yss-discord), [Newb Community](https://faizul726.github.io/newb-discord), [Bedrock Graphics](https://faizul726.github.io/bedrockgraphics-discord)
 {: .prompt-warning }
 
-- [Newb Classic (previously known as Newb X Legacy)](https://example.com)
-- [Newb X Legacy (old lighting)](https://example.com) (unofficial) 
+> You can follow this [guide](https://faizul726.github.io/blog/how-to-use-renderdragon-shaders/) to know how to use these shaders in Android, iOS, Linux and Windows
+{: .prompt-info }
+
+- [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/7819304) (previously known as Newb X Legacy)
+- [Newb X Legacy v16](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/nxl-16.0-v1.26.10-merged-20260325-e1c2162.zip.mcpack) (old lighting) (unofficial) 
+- [Newb Explementary Edition](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/7811859)
+- [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/7815803)
+- [Newb X Dawn](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn/download/7816121)
+- Newb X Dragon REIMAGINED: [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/7815977) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/7815961) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/7815974)
+- Newb X Ale: [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/7815945) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/7815943) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/7815944)
+
