@@ -13,8 +13,8 @@ Before I start I want to say that,
 - I also assume you have enough braincells to read and understand
 - Theoretically, this guide should work for any case and is not limited to MB Loader (if you know what you're doing)
 
-> Setting data location to media may be risky since it's publicly accessible by any app which may lead to your Microsoft account getting hacked
-> ONLY follow this guide IF YOU ARE SURE that you don't have any app on your phone that may do something like that.
+> - Setting data location to media may be risky since it's publicly accessible by any app which may lead to your Microsoft account getting hacked  
+> - ONLY follow this guide IF YOU ARE SURE that you don't have any app on your phone that may do something like that.
 {: .prompt-warning }  
 
 In this guide we are going to use [Alleis Skin Pack](https://mcpedl.com/alleis-skin-pack/) by [RaiseAlleiseReraise](https://mcpedl.com/user/raisealleisereraise)
