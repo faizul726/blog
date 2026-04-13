@@ -3,7 +3,7 @@ title: List of Minecraft v26.10+ Compatible RenderDragon Shaders
 date: 2026-02-25 14:20:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names should always be lowercase
-#media_subpath: /assets/2026-02-13-how-to-use-4d-skins-in-mb-loader/
+#media_subpath: 
 
 #image: thumbnail.png
 excerpt: List of RenderDragon shaders that work on Minecraft v26.10+
@@ -34,6 +34,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.10+
 - [AziFy Revive](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader/download/7844786) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader)
 - [AziFy Natural](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-natural-shader-afn-mcbe-pe/download/7844796) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-natural-shader-afn-mcbe-pe)
 - [AziFy Low Poly Chunks](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks/download/7834110) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks)
+- [Newb X Apocalipsis](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/Newb%20X%20Apocalipsis-1.2-v1.26.10-merged.zip.mcpack) (unofficially updated)
 - [Rebuilt Shader](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/ReBuiltShaderRD-v1.26.10-merged-20260405.zip.mcpack) (unofficially updated)
 - [Enhanced Vanilla](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/EnhancedVanillaRD-v1.26.10-merged-20260405.zip.mcpack) (unofficially updated)
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/tag/v1.0.6) (unofficially updated)
