@@ -21,7 +21,8 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.10+
 {: .prompt-info }
 
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/7819304) (previously known as Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
-- [Newb X Legacy v16](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/nxl-16.0-v1.26.10-merged-20260325-e1c2162.zip.mcpack) (old lighting) (unofficial) 
+- [Newb X Legacy v16](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/nxl-16.0-v1.26.10-merged-20260325-e1c2162.zip.mcpack) (old lighting) (unofficial)
+- [**Newb X Sapphire** by my best friend](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/7926270)
 - [Newb Explementary Edition](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/7811859) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition)
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/7815803) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
 - [Newb X Dawn](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn/download/7816121) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn)
