@@ -23,6 +23,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.10+
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/7819304) (previously known as Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 - [Newb X Legacy v16](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/nxl-16.0-v1.26.10-merged-20260325-e1c2162.zip.mcpack) (old lighting) (unofficial)
 - [**Newb X Sapphire** by my best friend](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/7926270)
+- Newb Lumina [Android](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/newb-lumina-v1.26.10-android.zip.mcpack)
 - Newb X Unwind [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/7871493) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
 - [Newb Explementary Edition](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/7811859) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition)
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/7815803) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
