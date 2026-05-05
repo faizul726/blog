@@ -21,9 +21,10 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.10+
 {: .prompt-info }
 
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/7819304) (previously known as Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
-- [Newb X Legacy v16](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/nxl-16.0-v1.26.10-merged-20260325-e1c2162.zip.mcpack) (old lighting) (unofficial)
-- [Newb Reimagined [AD LINK]](https://link-center.net/1158331/udWzCRhHtDfv)
 - [**Newb X Sapphire** by my best friend](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/7926270)
+- [Newb X Legacy v16](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/nxl-16.0-v1.26.10-merged-20260325-e1c2162.zip.mcpack) (old lighting) (unofficial)
+- [Newb Glow](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/8041693)
+- [Newb Reimagined [AD LINK]](https://link-center.net/1158331/udWzCRhHtDfv)
 - Newb Lumina [Android](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/newb-lumina-v1.26.10-android.zip.mcpack) (unofficial)
 - Newb X Unwind [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/7871493) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
 - [Newb Ambient](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/nxa-1.26.10-merged-20260405.zip.mcpack) (unofficial)
