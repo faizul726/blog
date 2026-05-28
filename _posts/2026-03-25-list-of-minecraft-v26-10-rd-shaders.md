@@ -23,9 +23,9 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.10+
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/7819304) (previously known as Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 - [Newb X Sapphire](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/7926270) by my best friend
 - [Newb X Legacy v16](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/nxl-16.0-v1.26.10-merged-20260325-e1c2162.zip.mcpack) (old lighting) (unofficial)
+- [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8146866)
 - [Newb Complementary](https://www.mediafire.com/file/oundvpt3mq5c48u/Newb_Complementary_REIMAGINED_-_Merged.mcpack/file)
 - [Alice Shader](https://github.com/MariallenaHax/Alice-Shader/releases/download/v1/Alice.26.21.mcpack)
-- [Redstone Tech Shader](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.10/RedstoneTechShader%5B26.10-26.20+%5D.mcpack)
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/download/8091376) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - Newb Flamingo [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-flamingo/download/7871429)
 - [Newb Glow](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/8041693)
