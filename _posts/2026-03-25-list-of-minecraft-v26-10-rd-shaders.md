@@ -1,5 +1,5 @@
 ---
-title: List of Minecraft v26.10+ Compatible RenderDragon Shaders
+title: List of Minecraft v26.10 - v26.23 Compatible RenderDragon Shaders
 date: 2026-02-25 14:20:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names should always be lowercase
