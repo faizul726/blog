@@ -18,6 +18,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 > - For **Windows** you need [BetterRenderDragon](https://github.com/QYCottage/BetterRenderDragon/)
 {: .prompt-warning }
 
+- [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8277663) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery) 
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/files/8277567) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
 - FirmamentCraft Shader v5.1 [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/download/8265582) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/download/8265586) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/download/8265588) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/gallery)
 - FirmamentCraft Shader v4.2 [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/download/8265601) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/download/8265601) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/download/8265603) - Screenshots (same as above)
