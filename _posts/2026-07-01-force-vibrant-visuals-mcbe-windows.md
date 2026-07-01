@@ -1,5 +1,5 @@
 ---
-title: [Windows] How to force Vibrant Visuals on Minecraft Bedrock
+title: '[Windows] How to force Vibrant Visuals on Minecraft Bedrock'
 date: 2026-07-01 10:11:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, vibrant visuals, windows]     # TAG names should always be lowercase
