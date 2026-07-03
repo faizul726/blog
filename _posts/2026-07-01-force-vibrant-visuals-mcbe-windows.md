@@ -17,7 +17,7 @@ excerpt: Guide on how to force Vibrant Visuals on unsupported GPUs Minecraft Bed
 Let's get straight to the topic. 
 
 ## Installation
-1. Download the DLL file for the mod from [th4llium's GitHub](https://github.com/th4llium/vibrant-visuals-patcher/releases/download/v1.0.0/vibrant-visuals-patcher.dll)  
+1. Download the DLL file for the mod from [th4llium's GitHub](https://github.com/th4llium/vibrant-visuals-patcher/releases/latest)  
 
 2. Download WINHTTP (ModLoader) from [my fork](https://github.com/faizul726/ModLoader/releases/20251101-88c9ed6)  
    This is mainly because QYCottage one is at older release which doesn't load config files.  
