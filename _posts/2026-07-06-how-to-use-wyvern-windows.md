@@ -3,7 +3,7 @@ title: How to use Wyvern Shader Loader for Minecraft on Windows
 date: 2026-07-06 08:10:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, renderdragon, shaders, windows]     # TAG names should always be lowercase
-media_subpath: assets/2026-07-06-how-to-use-wyvern-windows/
+media_subpath: /assets/2026-07-06-how-to-use-wyvern-windows/
 
 image: wyvern_hero.webp
 excerpt: Guide on how to setup and use Wyvern on Windows
