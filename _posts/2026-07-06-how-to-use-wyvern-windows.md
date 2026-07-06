@@ -20,7 +20,7 @@ Let's get straight to the topic.
 ## Installation
 1. Download `WyvernSetup.exe` from [wyvern_releases repo](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest)
 
-2. Setup Wyvern
+2. Setup Wyvern (you don't have to worry about any options it gives)
 
 3. In Start menu, you will see new app named 'Wyvern'. Open it.
 
