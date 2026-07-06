@@ -30,7 +30,7 @@ Let's get straight to the topic.
 - Or, you can enable "Load on startup". Which will leave a background process that will start with Windows and inject into Minecraft everytime you start the game.  
   You can close it anytime by right-clicking Wyvern icon in taskbar and clicking 'Exit'  
 
-> On successful injection, Minecraft window title will show Wyvern text in it. ok
+> On successful injection, Minecraft window title will show Wyvern text in it. 
 {: .prompt-info }
 
 ## Usage
