@@ -13,6 +13,8 @@ excerpt: Guide on how to setup and use Wyvern on Windows
 > - As of writing this article, the mod is confirmed working on MC v26.32
 > - This guide only applies to GDK version of Minecraft which is v1.21.120+ 
 > - Due to the nature of memory manipulation programs, this may get falsely flagged as virus/malware by your antivirus. You may need to whitelist it in your antivirus for it to work.
+> 
+> ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/mcbegamerxx954/wyvern_releases/WyvernSetup.exe?displayAssetName=false&label=Lifetime%20downloads&color=0099ff&link=https%3A%2F%2Fgithub.com%2Fmcbegamerxx954%2Fwyvern_releases%2Freleases%2Flatest)  
 {: .prompt-warning }
 
 Let's get straight to the topic. 
