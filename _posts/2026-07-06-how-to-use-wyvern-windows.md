@@ -12,14 +12,14 @@ excerpt: Guide on how to setup and use Wyvern on Windows
 > - This shader loader is new and is not guaranteed to work.  
 > - As of writing this article, the mod is confirmed working on MC v26.32
 > - This guide only applies to GDK version of Minecraft which is v1.21.120+ 
-> - Due to the nature of memory manipulation programs, this may get falsely flagged as virus/malware by your antivirus. You may need to whitelist it in your antivirus for it to work.
-> 
-> ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/mcbegamerxx954/wyvern_releases/WyvernSetup.exe?displayAssetName=false&label=Lifetime%20downloads&color=0099ff&link=https%3A%2F%2Fgithub.com%2Fmcbegamerxx954%2Fwyvern_releases%2Freleases%2Flatest)  
+> - Due to the nature of memory manipulation programs, this may get falsely flagged as virus/malware by your antivirus. You may need to whitelist it in your antivirus for it to work.  
 {: .prompt-warning }
 
 Let's get straight to the topic. 
 
 ## Installation
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/mcbegamerxx954/wyvern_releases/WyvernSetup.exe?displayAssetName=false&label=Lifetime%20downloads&color=0099ff&link=https%3A%2F%2Fgithub.com%2Fmcbegamerxx954%2Fwyvern_releases%2Freleases%2Flatest)  
+
 1. Download `WyvernSetup.exe` from [wyvern_releases repo](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest)
 
 2. Setup Wyvern (you don't have to worry about any options it gives)
