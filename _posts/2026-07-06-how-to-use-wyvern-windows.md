@@ -1,5 +1,5 @@
 ---
-title: How to use Wyvern for Minecraft on Windows
+title: How to use Wyvern Shader Loader for Minecraft on Windows
 date: 2026-07-06 08:10:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, renderdragon, shaders, windows]     # TAG names should always be lowercase
@@ -29,6 +29,16 @@ Let's get straight to the topic.
 - You can open Minecraft and then click on the 'Inject' button
 - Or, you can enable "Load on startup". Which will leave a background process that will start with Windows and inject into Minecraft everytime you start the game.  
   You can close it anytime by right-clicking Wyvern icon in taskbar and clicking 'Exit'
+
+## Usage
+1. Import your shader resource pack
+2. Go to Minecraft settings -> Global Resources and activate the shader (preferably put it on top)
+3. Now shader should work. If it doesn't, try re-activating the resource pack or restart game. 
+
+> - Shaders **must** be put in Global resources not inside world settings. Or it will not work
+> - Wyvern Shader Loader only serves the purpose of loading shader. It has **absolutely nothing** to do with how shader looks in-game. It's your job to find shaders that work for your game version.  
+> - You need to use shaders that work on Windows. Using Android/iOS only shader will result in crash. 
+{: .prompt-warning }
 
 
 ## Uninstallation
