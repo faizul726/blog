@@ -28,7 +28,10 @@ Let's get straight to the topic.
 
 - You can open Minecraft and then click on the 'Inject' button
 - Or, you can enable "Load on startup". Which will leave a background process that will start with Windows and inject into Minecraft everytime you start the game.  
-  You can close it anytime by right-clicking Wyvern icon in taskbar and clicking 'Exit'
+  You can close it anytime by right-clicking Wyvern icon in taskbar and clicking 'Exit'  
+
+> On successful injection, Minecraft window title will show Wyvern text in it. ok
+{: .prompt-info }
 
 ## Usage
 1. Import your shader resource pack
