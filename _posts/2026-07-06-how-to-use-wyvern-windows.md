@@ -38,8 +38,8 @@ Let's get straight to the topic.
 2. Go to Minecraft settings -> Global Resources and activate the shader (preferably put it on top)
 3. Now shader should work. If it doesn't, try re-activating the resource pack or restart game. 
 
-> - Shaders **must** be put in Global resources not inside world settings. Or it will not work
-> - Wyvern Shader Loader only serves the purpose of loading shader. It has **absolutely nothing** to do with how shader looks in-game. It's your job to find shaders that work for your game version.  
+> - Shaders **must** be put in Global resources not inside world settings. Or it will not work.
+> - Wyvern only serves the purpose of loading shader. It has **absolutely nothing** to do with how shader looks in-game. It's your job to find shaders that work on your game version.  
 > - You need to use shaders that work on Windows. Using Android/iOS only shader will result in crash. 
 {: .prompt-warning }
 
