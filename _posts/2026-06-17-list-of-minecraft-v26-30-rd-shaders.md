@@ -19,6 +19,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
+- Newb X Flamingo [Android](https://www.curseforge.com/api/v1/mods/1239642/files/8390609/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-flamingo/gallery)
 - [Newb Explementary Edition HIGH](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/8385233) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition)
 - [Newb Explementary Edition](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/8385220) - Screenshots (same as above)
 - [Newb X Manyzz](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-manyzz-merged-android-ios-windows/download/8377756) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-manyzz-merged-android-ios-windows/gallery)
