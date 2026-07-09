@@ -19,7 +19,7 @@ Before I start I want to say that,
 > - ONLY follow this guide IF YOU ARE SURE that you don't have any app on your phone that may do something like that.
 {: .prompt-warning }  
 
-In this guide we are going to use [Alleis Skin Pack](https://mcpedl.com/alleis-skin-pack/) by [RaiseAlleiseReraise](https://mcpedl.com/user/raisealleisereraise)
+In this guide we are going to use [Alleis Skin Pack](https://mcpedl.com/alleis-skin-pack/) by [Alleis Elis](https://mcpedl.com/user/alleis-elis)
 
 1. Open MB Loader -> About, and click the flower icon until it says something like "enabled hidden settings"
 2. Go to app settings -> (scroll down) -> Force game data location and set it to `Android/media`
