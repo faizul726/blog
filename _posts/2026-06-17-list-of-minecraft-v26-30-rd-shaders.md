@@ -19,6 +19,14 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
+- [Newb NightFall](https://www.curseforge.com/api/v1/mods/1603481/files/8399000/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-nightffall-official/gallery)
+- [Newb Complementary LITE](https://www.curseforge.com/api/v1/mods/1246515/files/8398769/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
+- [Newb X Dragon REIMAGINED](https://www.curseforge.com/api/v1/mods/1246482/files/8398768/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon)
+- [Newb X Dragon LITE](https://www.curseforge.com/api/v1/mods/1246482/files/8398763/download) - Screenshots (same as above)
+- [Newb X Dawn REIMAGINED](https://www.curseforge.com/api/v1/mods/1246506/files/8398758/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn)
+- [Newb X Dawn LITE](https://www.curseforge.com/api/v1/mods/1246506/files/8398755/download) - Screenshots (same as above)
+- [Newb X Stars](https://www.curseforge.com/api/v1/mods/1248967/files/8398753/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars)
+- [Newb X Stars LITE](https://www.curseforge.com/api/v1/mods/1248967/files/8398748/download) - Screenshots (same as above)
 - [Newb Explementary Edition HIGH](https://www.curseforge.com/api/v1/mods/1476651/files/8392477/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition)
 - [Newb Explementary Edition](https://www.curseforge.com/api/v1/mods/1476651/files/8392467/download) - Screenshots (same as above)
 - Newb X Flamingo [Android](https://www.curseforge.com/api/v1/mods/1239642/files/8390609/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-flamingo/gallery)
