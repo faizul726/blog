@@ -15,7 +15,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 > - If you want your shader to be removed from here please create an issue [here](https://github.com/faizul726/blog/issues)
 > - For **Android** you need [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) 
 > - For **iOS** you need Minecraft with Hynis (available in our [Discord server](https://faizul726.github.io/newb-discord))
-> - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest)
+> - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) [Guide](https://faizul726.github.io/blog/how-to-use-wyvern-windows/)  
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
