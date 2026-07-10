@@ -15,7 +15,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 > - If you want your shader to be removed from here please create an issue [here](https://github.com/faizul726/blog/issues)
 > - For **Android** you need [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) 
 > - For **iOS** you need Minecraft with Hynis (available in our [Discord server](https://faizul726.github.io/newb-discord))
-> - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) ([Guide](https://faizul726.github.io/blog/how-to-use-wyvern-windows/) on how to use Wyvern)  
+> - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) ([How to use Wyvern?](https://faizul726.github.io/blog/how-to-use-wyvern-windows/))  
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
@@ -35,7 +35,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 - Newb Unwind [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8372336) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
 - Newb Unwind LITE [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8372314) - Screenshots (same as above)
 - [Newb Reprise](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/download/8365025) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/gallery)
-- [Newb Reimagined [AD Link]](https://linkvertise.com/1158331/udWzCRhHtDfv)
+- [Newb Reimagined [AD Link]](https://linkvertise.com/1158331/udWzCRhHtDfv) - [Screenshots](https://imgur.com/a/soA78VJ)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8344898) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/download/8304329) by a handsome guy - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - Newb Unwind v6.1 [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8304327) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
