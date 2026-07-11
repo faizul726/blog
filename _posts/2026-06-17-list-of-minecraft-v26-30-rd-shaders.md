@@ -19,6 +19,8 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
+- [Newb X Supplementary](https://www.curseforge.com/api/v1/mods/1595665/files/8410047/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary)
+- [AZIFY Low Poly Chunks](https://www.curseforge.com/api/v1/mods/1453855/files/8400984/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks/gallery)
 - [Newb NightFall](https://www.curseforge.com/api/v1/mods/1603481/files/8399000/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-nightffall-official/gallery)
 - [Newb Complementary LITE](https://www.curseforge.com/api/v1/mods/1246515/files/8398769/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
 - [Newb X Dragon REIMAGINED](https://www.curseforge.com/api/v1/mods/1246482/files/8398768/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon)
@@ -31,7 +33,6 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 - [Newb Explementary Edition](https://www.curseforge.com/api/v1/mods/1476651/files/8392467/download) - Screenshots (same as above)
 - Newb X Flamingo [Android](https://www.curseforge.com/api/v1/mods/1239642/files/8390609/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-flamingo/gallery)
 - [Newb X Manyzz](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-manyzz-merged-android-ios-windows/download/8377756) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-manyzz-merged-android-ios-windows/gallery)
-- [Newb X Supplementary](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8375512) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary)
 - Newb Unwind [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8372336) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
 - Newb Unwind LITE [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8372314) - Screenshots (same as above)
 - [Newb Reprise](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/download/8365025) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/gallery)
