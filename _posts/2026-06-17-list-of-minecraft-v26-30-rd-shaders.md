@@ -19,7 +19,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
-- [Newb X Supplementary](https://www.curseforge.com/api/v1/mods/1595665/files/8410047/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary)
+- [Newb X Supplementary](https://www.curseforge.com/api/v1/mods/1595665/files/8417971/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary)
 - [AZIFY Low Poly Chunks](https://www.curseforge.com/api/v1/mods/1453855/files/8400984/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks/gallery)
 - [Newb NightFall](https://www.curseforge.com/api/v1/mods/1603481/files/8399000/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-nightffall-official/gallery)
 - [Newb Complementary REIMAGINED](https://www.curseforge.com/api/v1/mods/1246515/files/8407722/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
