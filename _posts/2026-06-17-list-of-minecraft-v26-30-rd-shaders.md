@@ -19,7 +19,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
-- [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) by my best friend - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
+- [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 - [HSD Shader](https://www.curseforge.com/api/v1/mods/1328835/files/8411264/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/hsd-full-high-definition-shader-mcpe)
 - [AziFy Truly Default](https://www.curseforge.com/api/v1/mods/1269082/files/8411375/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-truly-default)
 - [Glow Em All](https://www.curseforge.com/api/v1/mods/1286705/files/8411645/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader/gallery)
