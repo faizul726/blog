@@ -19,6 +19,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
+- [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) by my best friend - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 - [HSD Shader](https://www.curseforge.com/api/v1/mods/1328835/files/8411264/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/hsd-full-high-definition-shader-mcpe)
 - [AziFy Truly Default](https://www.curseforge.com/api/v1/mods/1269082/files/8411375/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-truly-default)
 - [Glow Em All](https://www.curseforge.com/api/v1/mods/1286705/files/8411645/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader/gallery)
@@ -46,7 +47,6 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 - [Newb Reimagined [AD Link]](https://linkvertise.com/1158331/udWzCRhHtDfv) - [Screenshots](https://imgur.com/a/soA78VJ)
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/download/8304329) by a handsome guy - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - Newb Unwind v6.1 [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8304327) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
-- [Newb X Sapphire](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) by my best friend - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 - [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8273309) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/files/8277567) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
 - FirmamentCraft Shader v5.1 [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/download/8265582) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/download/8265586) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/download/8265588) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/firmamentcraft-shader-renderdragon/gallery)
