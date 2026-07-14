@@ -19,6 +19,9 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
+- [HSD Shader](https://www.curseforge.com/api/v1/mods/1328835/files/8411264/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/hsd-full-high-definition-shader-mcpe)
+- [AziFy Truly Default](https://www.curseforge.com/api/v1/mods/1269082/files/8411375/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-truly-default)
+- [Glow Em All](https://www.curseforge.com/api/v1/mods/1286705/files/8411645/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader/gallery)
 - [Newb Tropisphere](https://www.curseforge.com/api/v1/mods/1559423/files/8428207/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [Newb X Supplementary](https://www.curseforge.com/api/v1/mods/1595665/files/8417971/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary)
 - [AZIFY Low Poly Chunks](https://www.curseforge.com/api/v1/mods/1453855/files/8400984/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks/gallery)
