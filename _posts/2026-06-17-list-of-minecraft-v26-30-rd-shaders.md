@@ -19,10 +19,12 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
+- [Newb Tropisphere](https://www.curseforge.com/api/v1/mods/1559423/files/8428207/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [Newb X Supplementary](https://www.curseforge.com/api/v1/mods/1595665/files/8417971/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary)
 - [AZIFY Low Poly Chunks](https://www.curseforge.com/api/v1/mods/1453855/files/8400984/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks/gallery)
 - [Newb NightFall](https://www.curseforge.com/api/v1/mods/1603481/files/8399000/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-nightffall-official/gallery)
 - [Newb Complementary REIMAGINED](https://www.curseforge.com/api/v1/mods/1246515/files/8407722/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
+- ⬇ All Ale shader links are dead ⬇
 - [Newb Complementary LITE](https://www.curseforge.com/api/v1/mods/1246515/files/8398769/download) - Screenshots (same as above)
 - [Newb X Dragon REIMAGINED](https://www.curseforge.com/api/v1/mods/1246482/files/8398768/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon)
 - [Newb X Dragon LITE](https://www.curseforge.com/api/v1/mods/1246482/files/8398763/download) - Screenshots (same as above)
@@ -30,6 +32,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 - [Newb X Dawn LITE](https://www.curseforge.com/api/v1/mods/1246506/files/8398755/download) - Screenshots (same as above)
 - [Newb X Stars](https://www.curseforge.com/api/v1/mods/1248967/files/8398753/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars)
 - [Newb X Stars LITE](https://www.curseforge.com/api/v1/mods/1248967/files/8398748/download) - Screenshots (same as above)
+- ⬆ All Ale shader links are dead ⬆
 - [Newb Explementary Edition HIGH](https://www.curseforge.com/api/v1/mods/1476651/files/8392477/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition)
 - [Newb Explementary Edition](https://www.curseforge.com/api/v1/mods/1476651/files/8392467/download) - Screenshots (same as above)
 - Newb X Flamingo [Android](https://www.curseforge.com/api/v1/mods/1239642/files/8390609/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-flamingo/gallery)
@@ -38,7 +41,6 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 - Newb Unwind LITE [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8372314) - Screenshots (same as above)
 - [Newb Reprise](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/download/8365025) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/gallery)
 - [Newb Reimagined [AD Link]](https://linkvertise.com/1158331/udWzCRhHtDfv) - [Screenshots](https://imgur.com/a/soA78VJ)
-- [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8344898) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/download/8304329) by a handsome guy - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - Newb Unwind v6.1 [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8304327) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
 - [Newb X Sapphire](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) by my best friend - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
