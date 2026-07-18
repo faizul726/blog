@@ -20,6 +20,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
+- Newb X Hearth [Android](https://www.curseforge.com/api/v1/mods/1614908/files/8456647/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-hearth/gallery)
 - [SmooTea Shader](https://www.curseforge.com/api/v1/mods/1286163/files/8450024/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea/gallery)
 - [AziFy Revive Shader](https://www.curseforge.com/api/v1/mods/1269072/files/8450009/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader)
 - [HSD Shader](https://www.curseforge.com/api/v1/mods/1328835/files/8411264/download) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/hsd-full-high-definition-shader-mcpe)
