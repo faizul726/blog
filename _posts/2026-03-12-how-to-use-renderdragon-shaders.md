@@ -1,12 +1,12 @@
 ---
-title: 'How to use RenderDragon shaders on Minecraft Bedrock [Android/iOS/Windows/Linux] [WIP]'
+title: 'How to use RenderDragon shaders on Minecraft Bedrock [Android/iOS/Windows/Linux]'
 date: 2026-03-12 17:00:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, shaders, renderdragon]     # TAG names should always be lowercase
 #media_subpath: /assets/2026-02-13-how-to-use-4d-skins-in-mb-loader/
 
 #image: thumbnail.png
-excerpt: '[WIP] Guide on how to use RenderDragon shaders on some popular platforms'
+excerpt: 'Guide on how to use RenderDragon shaders on some popular platforms'
 ---
 
 # What are RenderDragon shaders?
@@ -19,7 +19,7 @@ This guide explains some ways that you can follow to use these shaders on Androi
 {: .prompt-warning }
 
 ## Android
-### Using MB Loader (recommended)
+### Using MB Loader
 You need Minecraft installed for this. Preferably version that's not heavily modified (sailors will know what I mean)
 {: .prompt-info }
 
@@ -29,9 +29,17 @@ You need Minecraft installed for this. Preferably version that's not heavily mod
 4. Go to game settings -> Global resources, and activate the shader (Don't apply inside world settings. That's a very bad habit)
 
 ## iOS
-I will ping her and some other people for guide on this :sob:
+1. Join [Newb Discord Server](https://faizul726.github.io/newb-discord)
+2. Go to `#mc-hynis-ios` channel
+3. Download Minecraft with Hynis IPA file
+4. Sideload with your preferred sideloading tool (Since I have no experience in this I can't help. But you can ask in that same Discord server or look up on Google)
+5. Once done, copy shader resource pack to Minecraft Hynis `resource_packs` folder
+6. Open Minecraft with Hynis -> Settings -> Global Resources. And activate the shader. Now it should work.
 
 ## Windows: 
+### Using Wyvern (recommended)
+1. I already have written a blog on that so read it [there](https://faizul726.github.io/blog/how-to-use-wyvern-windows/).
+
 ### Using BetterRenderDragon
 Well, since the current maintainer doesn't really want to give out any instructions (perhaps to move people to their Minecraft Launcher), I will show you an somewhat unofficial way of getting it working.
 {: .prompt-info }
