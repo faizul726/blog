@@ -10,7 +10,6 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 ---
   
 > - Unofficially updated = Updated by someone other than the creator
-> - Shaders with single link support Android, iOS, Windows
 > - Shader creators are encouraged to submit their shaders here by [creating an issue](https://github.com/faizul726/blog/issues)
 > - If you want your shader to be removed from here please create an issue [here](https://github.com/faizul726/blog/issues)
 > - For **Android** you need [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) 
@@ -20,6 +19,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
+- [Newb X SBN](https://www.curseforge.com/api/v1/mods/1504541/files/8460059/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3/gallery)
 - [Newb Vibrance](https://www.mediafire.com/file/dwpwzppihhual1d/Newb_Vibrance_Shader_-_Merged.mcpack/file) (mimics Vibrant Visuals) - [Screenshots](https://discord.com/channels/844591537430069279/1528183707205107814/1528184843127623680) (join [Newb Discord](https://faizul726.github.io/newb-discord) first!)
 - Equinox RD Shader [Android](https://www.curseforge.com/api/v1/mods/1613698/files/8454317/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/gallery)
 - Newb X Hearth [Android](https://www.curseforge.com/api/v1/mods/1614908/files/8456647/download) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-hearth/gallery)
