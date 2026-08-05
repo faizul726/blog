@@ -19,7 +19,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
-- [Newb Tropisphere 0.6](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8551532) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
+- [Newb Tropisphere 0.6.1](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8580669) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [Newb Explementary Edition HIGH](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/8392477) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition)
 - [Newb Explementary Edition](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/8392467) - Screenshots (same as above)
 - Newb X Flamingo v5.2 [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-flamingo/download/8455030) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-flamingo/gallery)
