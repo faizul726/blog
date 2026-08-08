@@ -9,7 +9,7 @@ tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names sho
 excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 ---
 
-> **26.40+ Compatibility Notice**
+> **26.40+ Compatibility Notice**  
 > While shaders from 26.30 work on 26.40+, time/fog detection based effects and leave waving are broken in most shaders (if not all)  
 > For example, on Newb Classic and some of its variants, you won't be able to see aurora at night or clouds will have wrong color at night or some supposed plants may not have waving effect.  
 > Because of technical limitation and hassle, we decided not to create a dedicated 26.40+ shader list. This list will be maintained as long as shaders don't fully break.
