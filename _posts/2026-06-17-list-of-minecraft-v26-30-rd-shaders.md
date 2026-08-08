@@ -21,6 +21,7 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
+- Project Stasis [iOS & Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis/download/8598616) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis)
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 
 - Newb Tropisphere [v0.6.1 (26.30-26.33)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8580669) or [v0.6.2 (26.40+)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8599878) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
