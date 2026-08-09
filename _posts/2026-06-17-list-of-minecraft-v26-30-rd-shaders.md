@@ -11,6 +11,9 @@ excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
 
 <!--
 haru you can leave any notable things here. so we both can be on the same page without looking at commits [aug 9]
+if you want to put [] inside the hyperlink title you have to escape them like \[ \] 
+eg. [absolutely not rickroll \[real\]](https://youtu.be/eZ0E3Rkv0NA) = absolutely not rickroll [real] 
+\[26.40+\]
 -->
 
 > **26.40+ Compatibility Notice**  
@@ -31,6 +34,15 @@ haru you can leave any notable things here. so we both can be on the same page w
 - Newb Tropisphere [v0.6.1 (26.30-26.33)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8580669) or [v0.6.2 (26.40+)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8599878) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - Newb X Supplementary [v7.1 (26.30-26.33)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8532897) or [v7.5 (26.40+)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8595158) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary)
 - Newb X Hearth [Android v1.3(26.30-26.33)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-daydream/download/8532261) or [Merged v1.5(26.40+)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-daydream/download/8598742) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-hearth/gallery)
+- [Newb Vibrance \[26.40+\]](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-vibrance/download/8606783) (mimics Vibrant Visuals) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-vibrance)
+- [Newb Complementary REIMAGINED \[26.40+\]](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/8606756) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
+- [Newb Complementary LITE \[26.40+\]](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/8606751) - Screenshots (same as above)
+- [Newb X Dragon REIMAGINED \[26.40+\]](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/8606740) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon)
+- [Newb X Dragon LITE \[26.40+\]](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/8606736) - Screenshots (same as above)
+- [Newb X Dawn REIMAGINED \[26.40+\]](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn/download/8606732) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn)
+- [Newb X Dawn LITE \[26.40+\]](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn/download/8606729) - Screenshots (same as above)
+- [Newb X Stars \[26.40+\]](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars/download/8606726) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars)
+- [Newb X Stars LITE \[26.40+\]](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars/download/8606723) - Screenshots (same as above)
 
 - [Newb Explementary Edition HIGH](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/8392477) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition)
 - [Newb Explementary Edition](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/8392467) - Screenshots (same as above)
@@ -38,7 +50,6 @@ haru you can leave any notable things here. so we both can be on the same page w
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.7_/ESBE-1G-rd.mcpack) (unofficially updated)
 - [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/8270213) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader)
 - [Newb X SBN](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3/download/8460059) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3/gallery)
-- [Newb Vibrance](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-vibrance/download/8491737) (mimics Vibrant Visuals) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-vibrance)
 - Equinox RD Shader [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/download/8479010) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/gallery)
 - [SmooTea Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea/download/8450024) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea/gallery)
 - [AziFy Revive Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader/download/8450009) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader)
@@ -47,14 +58,6 @@ haru you can leave any notable things here. so we both can be on the same page w
 - [Glow Em All](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader/download/8411645) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader/gallery)
 - [AZIFY Low Poly Chunks](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks/download/8400984) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks/gallery)
 - [Newb NightFall](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-nightffall-official/download/8399000) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-nightffall-official/gallery)
-- [Newb Complementary REIMAGINED](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/8491721) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
-- [Newb Complementary LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/8491724) - Screenshots (same as above)
-- [Newb X Dragon REIMAGINED](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/8491761) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon)
-- [Newb X Dragon LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/8491759) - Screenshots (same as above)
-- [Newb X Dawn REIMAGINED](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn/download/8491754) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn)
-- [Newb X Dawn LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dawn/download/8491752) - Screenshots (same as above)
-- [Newb X Stars](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars/download/8491744) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars)
-- [Newb X Stars LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars/download/8491747) - Screenshots (same as above)
 - [Newb X Manyzz](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-manyzz-merged-android-ios-windows/download/8377756) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-manyzz-merged-android-ios-windows/gallery)
 - Newb Unwind [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8372336) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
 - Newb Unwind LITE [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8372314) - Screenshots (same as above)
