@@ -46,6 +46,7 @@ i have updated ale shadar links (aug 9)
 - [Newb X Stars (26.40+)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars/download/8606726) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars)
 - [Newb X Stars LITE (26.40+)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-stars/download/8606723) - Screenshots (same as above)
 
+- [Enhanced Vanilla RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.30/EnhancedVanillaRD-v1.26.30-multiplatform-20260813.zip.mcpack) (unofficially updated)
 - Newb X Blissful [Android \[AD Link\]](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252flootdest.org%252fs%253fPazM19sH) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-blissful)
 - [Newb Explementary Edition HIGH](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/8392477) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition)
 - [Newb Explementary Edition](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/8392467) - Screenshots (same as above)
