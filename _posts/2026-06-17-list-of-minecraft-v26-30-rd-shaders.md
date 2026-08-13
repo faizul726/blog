@@ -30,7 +30,7 @@ i have updated ale shadar links (aug 9)
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
-- [Yildrim Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/8638553) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
+- [Yildrim Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/8638553) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd) (should work in both 26.30+ and 26.40+)
 - Project Stasis [iOS & Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis/download/8598616) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis)
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 
