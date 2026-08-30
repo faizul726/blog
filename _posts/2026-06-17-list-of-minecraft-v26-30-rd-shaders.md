@@ -15,8 +15,9 @@ if you want to put [] inside the hyperlink title you have to escape them like \[
 eg. [absolutely not rickroll \[real\]](https://youtu.be/eZ0E3Rkv0NA) = absolutely not rickroll [real] 
 \[26.40+\]
 
-- i have updated ale shadar links (aug 9)
+- updated project stasis link (aug 30)
 - project stasis new version is merged, not android only (aug 16)
+- i have updated ale shadar links (aug 9)
 -->
 
 > **26.40+ Compatibility Notice**  
@@ -31,8 +32,8 @@ eg. [absolutely not rickroll \[real\]](https://youtu.be/eZ0E3Rkv0NA) = absolutel
 {: .prompt-warning }
 
 - [Newb Classic v16.54](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8305090) (previously Newb X Legacy) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
+- [Project Stasis](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis/download/8748645) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis)
 - [Yildrim Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/8638553) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd) (should work in both 26.30+ and 26.40+)
-- [Project Stasis](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis/download/8653288) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis)
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8285900) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 
 - Newb X Supplementary [v7.1 (26.30-26.33)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8532897) or [v8.2 (26.40+)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8744891) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/gallery)
