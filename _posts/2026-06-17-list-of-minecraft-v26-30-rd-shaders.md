@@ -6,7 +6,7 @@ tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names sho
 #media_subpath: 
 
 #image: thumbnail.png
-excerpt: List of RenderDragon shaders that work on Minecraft v26.30+
+excerpt: List of RenderDragon shaders that work on Minecraft v26.30 - v26.44
 ---
 
 <!--
