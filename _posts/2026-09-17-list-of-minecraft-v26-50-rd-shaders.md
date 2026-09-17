@@ -1,5 +1,5 @@
 ---
-title: List of Minecraft v26.30+ Compatible RenderDragon Shaders
+title: List of Minecraft v26.50+ Compatible RenderDragon Shaders
 date: 2026-09-17 18:58:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, mb loader, shaders, renderdragon]     # TAG names should always be lowercase
@@ -18,9 +18,10 @@ haru you can leave any notable things here. so we both can be on the same page w
 > - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) ([How to use Wyvern?](https://faizul726.github.io/blog/how-to-use-wyvern-windows/))  
 {: .prompt-warning }
 
-- [Best Friend Shader](https://mcpedl.com/newb-x-sapphire-shader/#downloads) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
+- [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8904122) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [Newb X Supplementary](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8902931) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/gallery)
 - [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/8900767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader)
 - [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
-  
+- [Newb Aero](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/download/8900989) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/gallery)
+- Newb Evermist Renewed [Android](https://www.mediafire.com/file/isculze87jnpxv4/Newb+Evermist+Renewed.mcpack/file) - [Screenshots (Discord)](https://discord.com/channels/844591537430069279/1549257998470225980)
