@@ -10,7 +10,7 @@ excerpt: Guide on how to setup and use Wyvern on Windows
 ---
 
 > - This shader loader is new and is not guaranteed to work.  
-> - As of writing this article, the mod is confirmed working on MC v26.32
+> - As of Sep 17, 2026, the mod is confirmed working on MC v26.50
 > - This guide only applies to GDK version of Minecraft which is v1.21.120+ 
 > - Due to the nature of memory manipulation programs, this may get falsely flagged as virus/malware by your antivirus. You may need to whitelist it in your antivirus for it to work.  
 {: .prompt-warning }
