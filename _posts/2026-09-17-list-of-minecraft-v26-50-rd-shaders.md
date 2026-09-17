@@ -19,3 +19,8 @@ haru you can leave any notable things here. so we both can be on the same page w
 {: .prompt-warning }
 
 - [Best Friend Shader](https://mcpedl.com/newb-x-sapphire-shader/#downloads) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
+- [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8904122) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
+- [Newb X Supplementary](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8902931) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/gallery)
+- [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/8900767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader)
+- [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
+  
