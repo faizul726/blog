@@ -19,6 +19,8 @@ haru you can leave any notable things here. so we both can be on the same page w
 {: .prompt-warning }
 
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
+- [Rebuilt Shader RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/ReBuiltShaderRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
+- [Enhanced Vanilla RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/EnhancedVanillaRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
 - [Newb X Ale](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/8906855) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale)
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/files/8911097) by a handsome man - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8904122) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
