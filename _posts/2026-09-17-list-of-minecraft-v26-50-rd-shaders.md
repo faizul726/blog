@@ -21,6 +21,9 @@ haru you can leave any notable things here. so we both can be on the same page w
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
+- [Newb Aetheris](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/download/8912988) [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/gallery)
+- [Newb Aero](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/download/8913041) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/gallery)
+- [Newb CraftEdge Reimagined](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/8923767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery)
 - [Rebuilt Shader RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/ReBuiltShaderRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
 - [Enhanced Vanilla RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/EnhancedVanillaRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
 - [Newb X Ale](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/8906855) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale)
@@ -29,5 +32,4 @@ haru you can leave any notable things here. so we both can be on the same page w
 - [Newb X Supplementary](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8902931) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/gallery)
 - [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/8900767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader)
 - [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
-- [Newb Aero](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/download/8900989) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/gallery)
 - Newb Evermist Renewed [Android](https://www.mediafire.com/file/isculze87jnpxv4/Newb+Evermist+Renewed.mcpack/file) - [Screenshots (Discord)](https://discord.com/channels/844591537430069279/1549257998470225980)
