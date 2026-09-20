@@ -21,6 +21,7 @@ haru you can leave any notable things here. so we both can be on the same page w
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
 - [**Newb CraftEdge Reimagined**](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/8923767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery)
+- [ESTN Shader RD](https://github.com/Strayings/ESTN-Shaders-RD/releases/download/release1/ESTN-Shaders-2.0.0.mcpack) (unofficially updated)
 - [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) (Utility shader) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/8918303) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
