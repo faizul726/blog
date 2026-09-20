@@ -21,6 +21,7 @@ haru you can leave any notable things here. so we both can be on the same page w
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
+- [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/8918303) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
 - [Newb Aetheris](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/download/8912988) [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/gallery)
 - [Newb Aero](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/download/8913041) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/gallery)
 - [Newb CraftEdge Reimagined](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/8923767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery)
