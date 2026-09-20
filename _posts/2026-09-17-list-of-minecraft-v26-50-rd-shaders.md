@@ -15,8 +15,10 @@ haru you can leave any notable things here. so we both can be on the same page w
 
 > - For **Android** you need [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) 
 > - For **iOS** you need Minecraft with Hynis (available in our [Discord server](https://faizul726.github.io/newb-discord))
-> - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) ([How to use Wyvern?](https://faizul726.github.io/blog/how-to-use-wyvern-windows/))  
+> - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) ([How to use Wyvern?](https://faizul726.github.io/blog/how-to-use-wyvern-windows/))
 {: .prompt-warning }
+
+- [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 - [Rebuilt Shader RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/ReBuiltShaderRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
