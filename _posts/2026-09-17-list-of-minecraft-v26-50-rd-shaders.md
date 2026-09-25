@@ -18,27 +18,37 @@ haru you can leave any notable things here. so we both can be on the same page w
 > - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) ([How to use Wyvern?](https://faizul726.github.io/blog/how-to-use-wyvern-windows/))
 {: .prompt-warning }
 
+
+### New and Uncommon Shaders
+- [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus/releases/download/v1.0.0/natural-mystic-plus-1.0.0.mcpack) (unofficially updated) - [Screenshots (scroll down)](https://github.com/Rinloid/natural-mystic-plus/blob/172978dcd5e04aab6f6085306ecb33daae747149/README.md)
+- [Basically Simple Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader/download/8943927) (removes block, entity, and clouds shading, just like 'Simply No Shading' on Java) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader)
+- [Classic Graphics v3](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics/download/8928072) (old graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics)
+- [Fish Eye Lens Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/fish-eye-lens-shader/download/8928253) (fish eye effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/fish-eye-lens-shader)
+- [Flashlight Shader v3.2](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/8928087) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader)
+- [Rebuilt Shader RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/ReBuiltShaderRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
+- [Enhanced Vanilla RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/EnhancedVanillaRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
+- [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/8900767) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader)
+- [ESTN Shader RD](https://github.com/Strayings/ESTN-Shaders-RD/releases/download/release1/ESTN-Shaders-2.0.0.mcpack) (unofficially updated)
+
+---
+
+### Newb Variants
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
   
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8904122) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [**Newb CraftEdge Reimagined**](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/8923767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery)
-- [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus/releases/download/v1.0.0/natural-mystic-plus-1.0.0.mcpack) (unofficially updated) - [Screenshots (scroll down)](https://github.com/Rinloid/natural-mystic-plus/blob/172978dcd5e04aab6f6085306ecb33daae747149/README.md)
-- [Classic Graphics v3](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics/download/8928072) (old graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics)
-- [Fish Eye Lens Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/fish-eye-lens-shader/download/8928253) (fish eye effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/fish-eye-lens-shader)
-- [Flashlight Shader v3.2](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/8928087) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader)
+
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/files/8911097) by a handsome man - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - [Newb X Supplementary](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8902931) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/gallery)
 - [Newb X Ale](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/8906855) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale)
-- [Newb X Apocalipsis](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis/download/8938084) (horror like shader)- [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis)
+- [Newb X Apocalipsis](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis/download/8938084) (horror like shader) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis)
 - Newb Evermist Renewed [Android](https://www.mediafire.com/file/isculze87jnpxv4/Newb+Evermist+Renewed.mcpack/file) - [Screenshots (Discord)](https://discord.com/channels/844591537430069279/1549257998470225980)
-- [ESTN Shader RD](https://github.com/Strayings/ESTN-Shaders-RD/releases/download/release1/ESTN-Shaders-2.0.0.mcpack) (unofficially updated)
-- [basically simple shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader/download/8943927)(RD shader that removes block, entity, and clouds shading, just like simply no shading) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader)
-- [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) (Utility shader) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
-- [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/8918303) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
 - [Newb Aero](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/download/8913041) (compatibility unconfirmed) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/gallery)
 - [Newb Aetheris](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/download/8912988) (compatibility unconfirmed) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/gallery)
-- [Rebuilt Shader RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/ReBuiltShaderRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
-- [Enhanced Vanilla RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/EnhancedVanillaRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
-- [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/8900767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader)
-- [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
+
+---
+
+### Utility Shaders
+- [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/8918303) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
+- [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) (redstone levels, chunk border, light level and more...) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
