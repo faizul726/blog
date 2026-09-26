@@ -20,6 +20,7 @@ haru you can leave any notable things here. so we both can be on the same page w
 
 
 ### New and Uncommon Shaders
+- Equinox RD [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/download/8971434) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/gallery)
 - [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus/releases/download/v1.0.0/natural-mystic-plus-1.0.0.mcpack) (unofficially updated) - [Screenshots (scroll down)](https://github.com/Rinloid/natural-mystic-plus/blob/172978dcd5e04aab6f6085306ecb33daae747149/README.md)
 - [Basically Simple Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader/download/8943927) (removes block, entity, and clouds shading, just like 'Simply No Shading' on Java) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader)
 - [Classic Graphics v3](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics/download/8928072) (old graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics)
