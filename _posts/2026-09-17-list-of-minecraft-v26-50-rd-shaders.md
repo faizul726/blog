@@ -19,7 +19,7 @@ added `Deferred Shaders` category [sep 30th]
 > - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) ([How to use Wyvern?](https://faizul726.github.io/blog/how-to-use-wyvern-windows/))
 {: .prompt-warning }
 ### Deferred Shaders (shaders that require Vibrant visuals)
-- Eternity Shaders Deferred [Android & Windows (Ads link)](https://link-center.net/604944/tGjc5WYOuIiG) - [Screenshots (join Bedrock Graphics community)](https://discord.com/channels/1295088839710212266/1295093265606905939)
+- Eternity Shaders Deferred [Ads link](https://link-center.net/604944/tGjc5WYOuIiG) - [Screenshots (join Bedrock Graphics community)](https://discord.com/channels/1295088839710212266/1295093265606905939)
 
 ### New and Uncommon Shaders
 - Vert Legacy v1.3 (unofficially updated) [Android](https://www.mediafire.com/file/kdlmonve2h7n39b/Vert_Legacy_1.26.50_unofficial.mcpack/file)
