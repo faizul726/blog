@@ -36,7 +36,8 @@ haru you can leave any notable things here. so we both can be on the same page w
 
 ### Newb Variants
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
-  
+
+- [Newb X Future](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/download/9009155) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/gallery)
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 - [Newb X SBN](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3/download/8936096) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3) 
 - Newb X Clear [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/8960731) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/8960728) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear)
