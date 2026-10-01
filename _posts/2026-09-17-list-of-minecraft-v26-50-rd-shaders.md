@@ -64,4 +64,4 @@ added `Deferred Shaders` category [sep 30th]
 - [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) (redstone levels, chunk border, light level and more) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
 
 
-[^1]: Vibrant Visuals on its own is a graphics mode. It can be enhanced further with packs also known as Vibrant Visuals pack/Deferred pack. Please keep in mind that while most of these work in the default game, some like Mirai and Strawberry Deferred requires you to have use a shader loader as stated in the warning in the start of this page.
+[^1]: Vibrant Visuals on its own is a graphics mode. It can be enhanced further with packs also known as Vibrant Visuals pack/Deferred pack. Please keep in mind that while most of these work in the default game, some like Mirai and Strawberry Deferred requires you to use a shader loader as stated in the warning in the start of this page.
