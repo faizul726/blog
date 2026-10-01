@@ -22,8 +22,6 @@ added `Deferred Shaders` category [sep 30th]
 ### Deferred Shaders (shaders that require Vibrant Visuals[^1])
 - [Eternity Shaders Deferred](https://link-center.net/604944/tGjc5WYOuIiG) [AD link] - [Screenshots (join Bedrock Graphics community on Discord)](https://discord.com/channels/1295088839710212266/1295093265606905939)
 
-[^1]: Vibrant Visuals on its own is a graphics mode. It can be enhanced further with packs also known as Vibrant Visuals pack/Deferred pack. Please keep in mind that most of these work in the default game but some like Mirai and Strawberry Deferred requires you to have use a shader loader as stated in the warning in the start of this page.
-
 ---
 
 ### New and Uncommon Shaders
@@ -64,3 +62,6 @@ added `Deferred Shaders` category [sep 30th]
 ### Utility Shaders
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/8918303) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
 - [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) (redstone levels, chunk border, light level and more) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
+
+
+[^1]: Vibrant Visuals on its own is a graphics mode. It can be enhanced further with packs also known as Vibrant Visuals pack/Deferred pack. Please keep in mind that while most of these work in the default game, some like Mirai and Strawberry Deferred requires you to have use a shader loader as stated in the warning in the start of this page.
