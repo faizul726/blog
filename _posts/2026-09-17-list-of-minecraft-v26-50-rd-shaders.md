@@ -18,8 +18,13 @@ added `Deferred Shaders` category [sep 30th]
 > - For **iOS** you need Minecraft with Hynis (available in our [Discord server](https://faizul726.github.io/newb-discord))
 > - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) ([How to use Wyvern?](https://faizul726.github.io/blog/how-to-use-wyvern-windows/))
 {: .prompt-warning }
-### Deferred Shaders (shaders that require Vibrant visuals)
-- Eternity Shaders Deferred [Ads link](https://link-center.net/604944/tGjc5WYOuIiG) - [Screenshots (join Bedrock Graphics community)](https://discord.com/channels/1295088839710212266/1295093265606905939)
+
+### Deferred Shaders (shaders that require Vibrant Visuals[^1])
+- [Eternity Shaders Deferred](https://link-center.net/604944/tGjc5WYOuIiG) [AD link] - [Screenshots (join Bedrock Graphics community on Discord)](https://discord.com/channels/1295088839710212266/1295093265606905939)
+
+[^1]: Vibrant Visuals on its own is a graphics mode. It can be enhanced further with packs also known as Vibrant Visuals pack/Deferred pack. Please keep in mind that most of these work in the default game but some like Mirai and Strawberry Deferred requires you to have use a shader loader as stated in the warning in the start of this page.
+
+---
 
 ### New and Uncommon Shaders
 - Vert Legacy v1.3 (unofficially updated) [Android](https://www.mediafire.com/file/kdlmonve2h7n39b/Vert_Legacy_1.26.50_unofficial.mcpack/file)
@@ -41,16 +46,16 @@ added `Deferred Shaders` category [sep 30th]
 
 - [Newb X Future](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/download/9009155) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/gallery)
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
-- [Newb X SBN](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3/download/8936096) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3) 
+- [Newb X SBN](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3/download/8936096) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3)
+
 - Newb X Clear [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/8960731) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/8960728) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8904122) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
-- [**Newb CraftEdge Reimagined**](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/8923767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery)
-
+- [Newb CraftEdge Reimagined](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/8923767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery)
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/files/8911097) by a handsome man - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - [Newb X Supplementary](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8902931) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/gallery)
 - [Newb X Ale](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/8906855) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale)
 - [Newb X Apocalipsis](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis/download/8938084) (horror like shader) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis)
-- Newb Evermist Renewed [Android](https://www.mediafire.com/file/isculze87jnpxv4/Newb+Evermist+Renewed.mcpack/file) - [Screenshots (Discord)](https://discord.com/channels/844591537430069279/1549257998470225980)
+- Newb Evermist Renewed [Android](https://www.mediafire.com/file/isculze87jnpxv4/Newb+Evermist+Renewed.mcpack/file) - [Screenshots (on Discord)](https://discord.com/channels/844591537430069279/1549257998470225980)
 - [Newb Aero](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/download/8913041) (compatibility unconfirmed) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/gallery)
 - [Newb Aetheris](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/download/8963605) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/gallery)
 
@@ -58,4 +63,4 @@ added `Deferred Shaders` category [sep 30th]
 
 ### Utility Shaders
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/8918303) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
-- [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) (redstone levels, chunk border, light level and more...) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
+- [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) (redstone levels, chunk border, light level and more) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
