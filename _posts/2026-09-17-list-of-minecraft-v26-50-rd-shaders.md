@@ -30,6 +30,8 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### New and Uncommon Shaders
+- [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.0/ISBE_rd.mcpack) (unofficially updated) (also supports Nintendo Switch^[2])
+- [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.8/ESBE-1G-rd.mcpack) (unofficially updated) (also supports Nintendo Switch^[2])
 - Vert Legacy v1.3 (unofficially updated) [Android](https://www.mediafire.com/file/kdlmonve2h7n39b/Vert_Legacy_1.26.50_unofficial.mcpack/file)
 - Equinox RD [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/download/8971434) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/gallery)
 - [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus/releases/download/v1.0.0/natural-mystic-plus-1.0.0.mcpack) (unofficially updated) - [Screenshots (scroll down)](https://github.com/Rinloid/natural-mystic-plus/blob/172978dcd5e04aab6f6085306ecb33daae747149/README.md)
@@ -76,3 +78,4 @@ added `Deferred Shaders` category [sep 30th]
 
 
 [^1]: Vibrant Visuals on its own is a graphics mode. It can be enhanced further with packs also known as Vibrant Visuals pack/Deferred pack. Please keep in mind that while most of these work in the default game, some like Mirai and Strawberry Deferred requires you to use a shader loader as stated in the warning in the start of this page.
+[^2]: For Nintendo Switch it's necessary to have jailbreak and the ability to directly edit Minecraft files (confirmation needed)
