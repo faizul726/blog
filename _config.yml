@@ -9,7 +9,6 @@ theme: jekyll-theme-chirpy
 lang: en
 
 plugins: 
-  - jekyll-feed
   - jekyll-redirect-from
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
