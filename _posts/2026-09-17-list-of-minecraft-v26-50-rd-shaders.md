@@ -10,6 +10,9 @@ excerpt: Community maintained list of RenderDragon shaders that work on Minecraf
 ---
 
 <!--
+[Oct 2, 2026]
+Consider adding date in the last of line to indicate when the link was added/updated
+
 haru you can leave any notable things here. so we both can be on the same page without looking at commits [sep 17]
 added `Deferred Shaders` category [sep 30th]
 -->
@@ -17,6 +20,8 @@ added `Deferred Shaders` category [sep 30th]
 > - For **Android** you need [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) 
 > - For **iOS** you need Minecraft with Hynis (available in our [Discord server](https://faizul726.github.io/newb-discord))
 > - For **Windows** you need [Wyvern](https://github.com/mcbegamerxx954/wyvern_releases/releases/latest) ([How to use Wyvern?](https://faizul726.github.io/blog/how-to-use-wyvern-windows/))
+>
+> **Contact:** [Newb Community on Discord](https://faizul726.github.io/newb-discord)
 {: .prompt-warning }
 
 ### Deferred Shaders (shaders that require Vibrant Visuals[^1])
@@ -42,20 +47,25 @@ added `Deferred Shaders` category [sep 30th]
 ### Newb Variants
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
-- [Newb X Future](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/download/9009155) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/gallery)
+<!--- Newb Reprise [TODO]-->
+
+- Newb X Dragon Renewed [Reimagined \[AD link\]](https://link-center.net/214456/zhc0t5le7hfX) / [Unbound \[AD link\]](https://link-target.net/214456/9jxCOT12ea30) / [Lite \[AD link\]](https://link-target.net/214456/l8QaiWqasdtl) - [Screenshots (on Discord)](https://discord.com/channels/844591537430069279/1253154036098662551/1554575937448968222) <!--Oct 2-->
+- Newb X Luminescent [Potato](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent/download/8987919) / [Low](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent/download/8987920) / [Medium](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent/download/8987921) / [High](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent/download/8987924) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent) <!--Oct 2-->
+- Newb X Daydream [AD link](https://direct-link.net/7565481/AHOEC8Rzi6OU) / [CF](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-daydream/download/8999015) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-daydream/gallery) <!--Oct 2-->
+- [Newb X Future](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/download/9009155) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/gallery) <!--Oct 2-->
+- [Newb Aetheris](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/download/8982546) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/gallery) <!--Oct 2-->
+- Newb Evermist Renewed [Android](https://www.mediafire.com/file/kuwekvoe7e817ok/Newb+X+Evermist.mcpack/file) - [Screenshots (on Discord)](https://discord.com/channels/844591537430069279/1549257998470225980) <!--Oct 2-->
+- Newb X Supplementary [AD link](https://link-hub.net/1073400/RlpHGWEyLpsL) [CF](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8902931) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/gallery) <!--Oct 2-->
+
 - [Best Friend Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/download/8894113) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sapphire-shader/gallery)
 - [Newb X SBN](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3/download/8936096) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3)
-
 - Newb X Clear [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/8960731) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/8960728) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8904122) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [Newb CraftEdge Reimagined](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/8923767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery)
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/files/8911097) by a handsome man - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
-- [Newb X Supplementary](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/8902931) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/gallery)
 - [Newb X Ale](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/8906855) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale)
 - [Newb X Apocalipsis](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis/download/8938084) (horror like shader) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis)
-- Newb Evermist Renewed [Android](https://www.mediafire.com/file/isculze87jnpxv4/Newb+Evermist+Renewed.mcpack/file) - [Screenshots (on Discord)](https://discord.com/channels/844591537430069279/1549257998470225980)
 - [Newb Aero](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/download/8913041) (compatibility unconfirmed) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aero-shader-renderdragon-shader/gallery)
-- [Newb Aetheris](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/download/8963605) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aetheris-compatible-with-minecraft-26-45/gallery)
 
 ---
 
