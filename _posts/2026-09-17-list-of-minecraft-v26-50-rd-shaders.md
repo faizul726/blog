@@ -30,6 +30,7 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### New and Uncommon Shaders
+- [Flashlight Shader v4](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9042020) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader) <!--Oct 3-->
 - [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.0/ISBE_rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.8/ESBE-1G-rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
 - Vert Legacy v1.3 (unofficially updated) [Android](https://www.mediafire.com/file/kdlmonve2h7n39b/Vert_Legacy_1.26.50_unofficial.mcpack/file)
@@ -38,7 +39,6 @@ added `Deferred Shaders` category [sep 30th]
 - [Basically Simple Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader/download/8943927) (removes block, entity, and clouds shading, just like 'Simply No Shading' on Java) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader)
 - [Classic Graphics v3](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics/download/8928072) (old graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics)
 - [Fish Eye Lens Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/fish-eye-lens-shader/download/8928253) (fish eye effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/fish-eye-lens-shader)
-- [Flashlight Shader v3.2](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/8928087) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader)
 - [Rebuilt Shader RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/ReBuiltShaderRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
 - [Enhanced Vanilla RD](https://github.com/faizul118/files/raw/refs/heads/main/RenderDragon%20Shaders/v26.50/EnhancedVanillaRD-v1.26.50-multiplatform-20260919.zip.mcpack) (vanilla like) (unofficially updated)
 - [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/8900767) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader)
