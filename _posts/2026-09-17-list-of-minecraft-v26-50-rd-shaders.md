@@ -49,8 +49,7 @@ added `Deferred Shaders` category [sep 30th]
 ### Newb Variants
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
-<!--- Newb Reprise [TODO]-->
-
+- [Newb Reprise](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/download/9049708) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/gallery) <!--Oct 6-->
 - [Newb Reimagined \[AD link\]](https://link-center.net/1158331/udWzCRhHtDfv) - [Screenshots](https://imgur.com/a/soA78VJ) <!--Oct 6-->
 - [Newb CraftEdge Reimagined](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/9068220) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery) <!--Oct 6-->
 - Newb Evermist Renewed [Android](https://www.mediafire.com/file/jumpyu8icn3e39a/Newb+X+Evermist+1.5.0.mcpack/file) - [Screenshots (on Discord)](https://discord.com/channels/844591537430069279/1549257998470225980) <!--Oct 6-->
