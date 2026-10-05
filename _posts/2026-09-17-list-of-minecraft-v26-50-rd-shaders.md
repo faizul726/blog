@@ -51,6 +51,8 @@ added `Deferred Shaders` category [sep 30th]
 
 <!--- Newb Reprise [TODO]-->
 
+- [Newb Reimagined \[AD link\]](https://link-center.net/1158331/udWzCRhHtDfv) - [Screenshots](https://imgur.com/a/soA78VJ) <!--Oct 6-->
+- [Newb CraftEdge Reimagined](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/9068220) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery) <!--Oct 6-->
 - Newb Evermist Renewed [Android](https://www.mediafire.com/file/jumpyu8icn3e39a/Newb+X+Evermist+1.5.0.mcpack/file) - [Screenshots (on Discord)](https://discord.com/channels/844591537430069279/1549257998470225980) <!--Oct 6-->
 - Newb X Dragon Renewed [Reimagined \[AD link\]](https://link-center.net/214456/zhc0t5le7hfX) / [Unbound \[AD link\]](https://link-target.net/214456/9jxCOT12ea30) / [Lite \[AD link\]](https://link-target.net/214456/l8QaiWqasdtl) - [Screenshots (on Discord)](https://discord.com/channels/844591537430069279/1253154036098662551/1554575937448968222) <!--Oct 2-->
 - Newb X Luminescent [Potato](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent/download/8987919) / [Low](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent/download/8987920) / [Medium](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent/download/8987921) / [High](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent/download/8987924) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-luminescent) <!--Oct 2-->
@@ -63,7 +65,6 @@ added `Deferred Shaders` category [sep 30th]
 - [Newb X SBN](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3/download/8936096) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-sbn-v3)
 - Newb X Clear [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/8960731) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/8960728) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/8904122) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
-- [Newb CraftEdge Reimagined](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/8923767) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery)
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/files/8911097) by a handsome man - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - [Newb X Ale](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/8906855) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale)
 - [Newb X Apocalipsis](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis/download/8938084) (horror like shader) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis)
