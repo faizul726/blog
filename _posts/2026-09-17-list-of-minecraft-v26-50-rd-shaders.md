@@ -30,7 +30,7 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### New and Uncommon Shaders
-- [Flashlight Shader v4](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9042020) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader) <!--Oct 3-->
+- [Flashlight Shader v4.1](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9059228) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader) <!--Oct 7-->
 - [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.0/ISBE_rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.8/ESBE-1G-rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
 - Vert Legacy v1.3 (unofficially updated) [Android](https://www.mediafire.com/file/kdlmonve2h7n39b/Vert_Legacy_1.26.50_unofficial.mcpack/file)
