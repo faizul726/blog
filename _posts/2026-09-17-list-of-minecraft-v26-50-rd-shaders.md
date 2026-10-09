@@ -30,6 +30,9 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### New and Uncommon Shaders
+- [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9098438) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery)
+- [Yildirim Shader RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9098184) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
+- [Project Stasis](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis/download/9078104) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis)
 - [Flashlight Shader v4.1](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9059228) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader) <!--Oct 7-->
 - [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.0/ISBE_rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.8/ESBE-1G-rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
@@ -49,6 +52,7 @@ added `Deferred Shaders` category [sep 30th]
 ### Newb Variants
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
+- [Newb x Unwind](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8954242) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
 - [Newb Reprise](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/download/9049708) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/gallery) <!--Oct 6-->
 - [Newb Reimagined \[AD link\]](https://link-center.net/1158331/udWzCRhHtDfv) - [Screenshots](https://imgur.com/a/soA78VJ) <!--Oct 6-->
 - [Newb CraftEdge Reimagined](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/download/9068220) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newbcraftedge/gallery) <!--Oct 6-->
