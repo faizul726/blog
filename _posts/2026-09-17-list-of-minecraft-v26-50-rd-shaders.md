@@ -76,6 +76,7 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### Utility Shaders
+- [Nametag Shadows v1](https://www.curseforge.com/minecraft-bedrock/texture-packs/nametag-shadows/download/9100408) (removes nametag background and adds shadow) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/nametag-shadows) <!--Oct 09-->
 - Shadowless Entity [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/shadowless-entity/download/8397884) (removes mob shadow underneath) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/shadowless-entity)
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/8918303) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
 - [RedstoneTech Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/8900738) (redstone levels, chunk border, light level and more) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
