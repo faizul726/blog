@@ -33,6 +33,9 @@ added `Deferred Shaders` category [sep 30th]
 - [IzH RD shader v0.3](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9173143) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--haruno san shader (real)-->
 - [Yildirim Shader RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9098184) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
 - [Project Stasis](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis/download/9078104) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis)
+- [SmooTea Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea/download/9098971) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azifysmootea/gallery)
+- [AziFy Revive Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader/download/9098938) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader/gallery)
+- [AziFy Truly Default](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-truly-default/download/9010281) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-truly-default)
 - [Flashlight Shader v4.1](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9059228) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader) <!--Oct 7-->
 - [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.0/ISBE_rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.8/ESBE-1G-rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
@@ -79,6 +82,8 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### Utility Shaders
+- [AziFy Low Poly Chunks](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks/download/9098904) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-low-poly-chunks-lower-quality-of-far-chunks/gallery)
+- [Glow Em All Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader/download/9098873) - [Curseforge page](https://www.curseforge.com/minecraft-bedrock/texture-packs/glow-em-all-shader)
 - [Nametag Shadows v1](https://www.curseforge.com/minecraft-bedrock/texture-packs/nametag-shadows/download/9100408) (removes nametag background and adds shadow) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/nametag-shadows) <!--Oct 09-->
 - Shadowless Entity [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/shadowless-entity/download/8397884) (removes mob shadow underneath) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/shadowless-entity)
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/8918303) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery)
