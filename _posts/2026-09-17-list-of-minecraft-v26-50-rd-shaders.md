@@ -52,6 +52,9 @@ added `Deferred Shaders` category [sep 30th]
 ### Newb Variants
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
+- [**Newb X Horizon** v15.2](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-horizon/download/9129511) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-horizon/gallery) <!--Oct 14-->
+- [Newb X Rexytmc \[AD link\]](https://link-hub.net/1317037/tfahPju0ZmzJ) (crashes on Windows) - [Video](https://youtu.be/jjNdtYdcScA) <!--Oct 14-->
+- Newb X Zenith [Android & iOS (on Discord)](https://discord.com/channels/844591537430069279/1558703437934362654/1559476877859754044) - [Screenshots (on Discord)](https://discord.com/channels/844591537430069279/1558703437934362654/1558703767195754526) <!--Oct 14-->
 - [Newb x Unwind](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/download/8954242) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind-v3/gallery)
 - [Newb Reprise](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/download/9049708) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-reprise/gallery) <!--Oct 6-->
 - [Newb Reimagined \[AD link\]](https://link-center.net/1158331/udWzCRhHtDfv) - [Screenshots](https://imgur.com/a/soA78VJ) <!--Oct 6-->
