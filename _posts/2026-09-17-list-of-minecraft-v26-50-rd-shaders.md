@@ -30,6 +30,7 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### New and Uncommon Shaders
+- [Acid Shader v1](https://www.curseforge.com/minecraft-bedrock/texture-packs/acid-shader/download/9059661) (unofficial port of Acid Shader from Java) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/acid-shader) <!--Oct 16-->
 - [IzH RD shader v0.3](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9173143) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--haruno san shader (real)-->
 - [Yildirim Shader RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9098184) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
 - [Project Stasis](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis/download/9078104) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/project-stasis)
