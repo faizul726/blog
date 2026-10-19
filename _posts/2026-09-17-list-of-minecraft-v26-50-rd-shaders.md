@@ -30,7 +30,6 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### New and Uncommon Shaders
-- [Newb Aerotion](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/download/9206978) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/gallery) <!--Oct 18--> <!--TODO: Move to Newb section later-->
 - [Acid Shader v1](https://www.curseforge.com/minecraft-bedrock/texture-packs/acid-shader/download/9059661) (unofficial port of Acid Shader from Java) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/acid-shader) <!--Oct 16-->
 - [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9237395) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--haruno san shader (real)-->
 - [Yildirim Shader RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9098184) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
@@ -57,6 +56,8 @@ added `Deferred Shaders` category [sep 30th]
 ### Newb Variants
 - [Newb Classic](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/8922740) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
+- Newb Explementary Edition [default](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/9255024)/ [HIGH](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition/download/9255026) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-explementary-edition)
+- [Newb Aerotion](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/download/9206978) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/gallery) <!--Oct 18-->
 - Newb X Trailer [Default](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-trailer/download/9236553)/ [LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-trailer/download/9236551) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-trailer)
 - [Newb Vibrance](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-vibrance/download/9236572) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-vibrance)
 - Newb Complemetary [REIMAGINED](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/9219285)/ [UNBOUND](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/9219283)/ [LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/9219281) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
