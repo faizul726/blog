@@ -25,6 +25,7 @@ added `Deferred Shaders` category [sep 30th]
 {: .prompt-warning }
 
 ### Deferred Shaders (shaders that require Vibrant Visuals[^1])
+- **Mirai v3.1.0** [Android](https://github.com/bambosan/mirai/releases/download/3.1.0/mirai-android-3.1.0.mcpack)/ [Windows](https://github.com/bambosan/mirai/releases/download/3.1.0/mirai-windows-3.1.0.mcpack)/ [iOS](https://github.com/bambosan/mirai/releases/download/3.1.0/mirai-ios-3.1.0.mcpack) - [Website](https://bambosan.github.io/mirai/)
 - [Eternity Shaders Deferred](https://link-center.net/604944/tGjc5WYOuIiG) [AD link] - [Screenshots (join Bedrock Graphics community on Discord)](https://discord.com/channels/1295088839710212266/1295093265606905939)
 
 ---
