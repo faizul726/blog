@@ -41,7 +41,7 @@ added `Deferred Shaders` category [sep 30th]
 - [Flashlight Shader v4.1](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9059228) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader) <!--Oct 7-->
 - [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.0/ISBE_rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.8/ESBE-1G-rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
-- Vert Legacy v1.3 (unofficially updated) [Android](https://www.mediafire.com/file/kdlmonve2h7n39b/Vert_Legacy_1.26.50_unofficial.mcpack/file)
+- Vert Legacy v1.3 (unofficially updated) [Android](https://www.mediafire.com/file/muo3shz4vsscos2/Vert_Legacy_1.26.50_unofficial.mcpack/file) <!--Oct 21 update-->
 - Equinox RD [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/download/8971434) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/gallery)
 - [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus/releases/download/v1.0.0/natural-mystic-plus-1.0.0.mcpack) (unofficially updated) - [Screenshots (scroll down)](https://github.com/Rinloid/natural-mystic-plus/blob/172978dcd5e04aab6f6085306ecb33daae747149/README.md)
 - [Basically Simple Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader/download/8943927) (removes block, entity, and clouds shading, just like 'Simply No Shading' on Java) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader)
