@@ -31,6 +31,7 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### New and Uncommon Shaders
+- Spectrum Shader Renewed [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/spectrum-shader/download/9295582)/ [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/spectrum-shader/download/9295581)/ [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/spectrum-shader/download/9295579) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/spectrum-shader)
 - [Acid Shader v1](https://www.curseforge.com/minecraft-bedrock/texture-packs/acid-shader/download/9059661) (unofficial port of Acid Shader from Java) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/acid-shader) <!--Oct 16-->
 - [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9237395) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--haruno san shader (real)-->
 - [Yildirim Shader RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9098184) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
