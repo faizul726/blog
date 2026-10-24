@@ -31,7 +31,7 @@ added `Deferred Shaders` category [sep 30th]
 ---
 
 ### New and Uncommon Shaders
-- [Mastomys_BE](https://github.com/Rinloid/Mastomys_BE/releases/download/v1.0.0/mastomys_shaders_v1.0.0.mcpack) - [Github](https://github.com/Rinloid/Mastomys_BE) <!--Oct 24-->
+- [Mastomys_BE v1.1.0](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/download/9313706) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/gallery) - [Github](https://github.com/Rinloid/Mastomys_BE) <!--Oct 25-->
 - Spectrum Shader Renewed [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/spectrum-shader/download/9295582)/ [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/spectrum-shader/download/9295581)/ [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/spectrum-shader/download/9295579) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/spectrum-shader)
 - [Acid Shader v1](https://www.curseforge.com/minecraft-bedrock/texture-packs/acid-shader/download/9059661) (unofficial port of Acid Shader from Java) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/acid-shader) <!--Oct 16-->
 - [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9237395) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--haruno san shader (real)-->
