@@ -1,12 +1,12 @@
 ---
-title: List of Minecraft v26.50+ Compatible RenderDragon Shaders
+title: List of Minecraft v26.50 - v26.52 Compatible RenderDragon Shaders
 date: 2026-09-17 18:58:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, mb loader, hynis, wyvern, shaders, renderdragon]     # TAG names should always be lowercase
 #media_subpath: 
 
 #image: thumbnail.png
-excerpt: Community maintained list of RenderDragon shaders that work on Minecraft v26.50+
+excerpt: Previously community-maintained list of RenderDragon shaders that worked on Minecraft v26.50 - v26.52
 ---
 
 <!--
@@ -16,6 +16,8 @@ Consider adding date in the last of line to indicate when the link was added/upd
 haru you can leave any notable things here. so we both can be on the same page without looking at commits [sep 17]
 added `Deferred Shaders` category [sep 30th]
 -->
+> As of Oct 27, 2026 this shader is no longer being maintained and is succeeded by [v26.60+ shader list](https://faizul726.github.io/blog/list-of-minecraft-v26-60-rd-shaders).
+{: .prompt-warning }
 
 > - For **Android** you need [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) 
 > - For **iOS** you need Minecraft with Hynis (available in our [Discord server](https://faizul726.github.io/newb-discord))
@@ -23,12 +25,6 @@ added `Deferred Shaders` category [sep 30th]
 >
 > **Contact:** [Newb Community on Discord](https://faizul726.github.io/newb-discord)
 {: .prompt-warning }
-
-### Deferred Shaders (shaders that require Vibrant Visuals[^1])
-- **Mirai v3.1.0** [Android](https://github.com/bambosan/mirai/releases/download/3.1.0/mirai-android-3.1.0.mcpack)/ [Windows](https://github.com/bambosan/mirai/releases/download/3.1.0/mirai-windows-3.1.0.mcpack)/ [iOS](https://github.com/bambosan/mirai/releases/download/3.1.0/mirai-ios-3.1.0.mcpack) - [Website](https://bambosan.github.io/mirai/)
-- [Eternity Shaders Deferred](https://link-center.net/604944/tGjc5WYOuIiG) [AD link] - [Screenshots (join Bedrock Graphics community on Discord)](https://discord.com/channels/1295088839710212266/1295093265606905939)
-
----
 
 ### New and Uncommon Shaders
 - [Mastomys_BE v1.1.0](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/download/9313706) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/gallery) - [Github](https://github.com/Rinloid/Mastomys_BE) <!--Oct 25-->
@@ -41,8 +37,8 @@ added `Deferred Shaders` category [sep 30th]
 - [AziFy Revive Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader/download/9098938) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-revive-shader/gallery)
 - [AziFy Truly Default](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-truly-default/download/9010281) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/azify-truly-default)
 - [Flashlight Shader v4.1](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9059228) (flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader) <!--Oct 7-->
-- [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.0/ISBE_rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
-- [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.8/ESBE-1G-rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^2])
+- [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.0/ISBE_rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^1])
+- [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.8/ESBE-1G-rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^1])
 - Vert Legacy v1.3 (unofficially updated) [Android](https://www.mediafire.com/file/muo3shz4vsscos2/Vert_Legacy_1.26.50_unofficial.mcpack/file) <!--Oct 21 update-->
 - Equinox RD [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/download/8971434) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official/gallery)
 - [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus/releases/download/v1.0.0/natural-mystic-plus-1.0.0.mcpack) (unofficially updated) - [Screenshots (scroll down)](https://github.com/Rinloid/natural-mystic-plus/blob/172978dcd5e04aab6f6085306ecb33daae747149/README.md)
@@ -102,5 +98,11 @@ added `Deferred Shaders` category [sep 30th]
 
 ---
 
-[^1]: Vibrant Visuals on its own is a graphics mode. It can be enhanced further with packs also known as Vibrant Visuals pack/Deferred pack. Please keep in mind that while most of these work in the default game, some like Mirai and Strawberry Deferred requires you to use a shader loader as stated in the warning in the start of this page.
-[^2]: For Nintendo Switch it's necessary to have jailbreak and the ability to directly edit Minecraft files (confirmation needed)
+### Deferred Shaders (shaders that require Vibrant Visuals[^2])
+- **Mirai v3.1.0** [Android](https://github.com/bambosan/mirai/releases/download/3.1.0/mirai-android-3.1.0.mcpack)/ [Windows](https://github.com/bambosan/mirai/releases/download/3.1.0/mirai-windows-3.1.0.mcpack)/ [iOS](https://github.com/bambosan/mirai/releases/download/3.1.0/mirai-ios-3.1.0.mcpack) - [Website](https://bambosan.github.io/mirai/)
+- [Eternity Shaders Deferred](https://link-center.net/604944/tGjc5WYOuIiG) [AD link] - [Screenshots (join Bedrock Graphics community on Discord)](https://discord.com/channels/1295088839710212266/1295093265606905939)
+
+---
+
+[^1]: For Nintendo Switch it's necessary to have jailbreak and the ability to directly edit Minecraft files (confirmation needed)
+[^2]: Vibrant Visuals on its own is a graphics mode. It can be enhanced further with packs also known as Vibrant Visuals pack/Deferred pack. Please keep in mind that while most of these work in the default game, some like Mirai and Strawberry Deferred requires you to use a shader loader as stated in the warning in the start of this page.
