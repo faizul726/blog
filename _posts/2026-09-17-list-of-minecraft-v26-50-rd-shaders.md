@@ -16,7 +16,7 @@ Consider adding date in the last of line to indicate when the link was added/upd
 haru you can leave any notable things here. so we both can be on the same page without looking at commits [sep 17]
 added `Deferred Shaders` category [sep 30th]
 -->
-> As of Oct 27, 2026  
+> As of Oct 27, 2026,  
 > this list is no longer being maintained and is succeeded by [v26.60+ shader list](https://faizul726.github.io/blog/list-of-minecraft-v26-60-rd-shaders).
 {: .prompt-warning }
 
