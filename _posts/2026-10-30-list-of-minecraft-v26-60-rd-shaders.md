@@ -23,6 +23,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 {: .prompt-warning }
 
 ### New and Uncommon Shaders
+- [Yildirim Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9371730) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
 - [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9360329) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery)
 - [Mastomys Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/download/9350825) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/gallery) <!--v1.2.0 Oct 30-->
 - [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/9370055) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader) <!--Oct 30-->
