@@ -17,7 +17,7 @@ haru you can leave any notable things here. so we both can be on the same page w
 added `Deferred Shaders` category [sep 30th]
 -->
 > As of Oct 27, 2026,  
-> this list is no longer being maintained and is succeeded by [v26.60+ shader list](https://faizul726.github.io/blog/list-of-minecraft-v26-60-rd-shaders).
+> this list is no longer being maintained (abandoned) and is succeeded by [v26.60+ shader list](https://faizul726.github.io/blog/list-of-minecraft-v26-60-rd-shaders).
 {: .prompt-warning }
 
 > - For **Android** you need [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) 
