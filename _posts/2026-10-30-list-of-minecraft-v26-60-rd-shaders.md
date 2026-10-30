@@ -25,7 +25,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 ### New and Uncommon Shaders
 - [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9360329) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery)
 - [Mastomys Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/download/9350825) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/gallery) <!--v1.2.0 Oct 30-->
-- [Alice Shader](https://github.com/MariallenaHax/Alice-Shader/releases/download/v4/Alice.26.60.mcpack) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader)
+- [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/9370055) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader) <!--Oct 30-->
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.9/ESBE-1G-rd.mcpack) (unofficial port) (also supports Nintendo Switch[^1])
 - [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.1/ISBE_rd.mcpack) (unofficial port) (also supports Nintendo Switch[^1])
 - [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus/releases/download/v1.1.0/natural-mystic-plus-1.1.0.mcpack) (unofficial port) - [Screenshots (scroll down)](https://github.com/Rinloid/natural-mystic-plus/blob/172978dcd5e04aab6f6085306ecb33daae747149/README.md) <!--v1.1.0 Oct 30-->
@@ -42,7 +42,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 ---
 
 ### Utility Shaders
-Work in progress...
+[FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/9370079) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery) <!--Oct 30-->
 
 ---
 
