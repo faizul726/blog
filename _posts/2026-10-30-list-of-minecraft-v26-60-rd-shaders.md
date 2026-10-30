@@ -9,8 +9,11 @@ tags: [minecraft, bedrock, mb loader, hynis, wyvern, shaders, renderdragon]     
 excerpt: Community-maintained list of RenderDragon shaders that work on Minecraft v26.60+
 ---
 
-> This list is work in progress and no shaders have been added here yet.
+> This list is work in progress and only few shaders have been added here.
 {: .prompt-info }
+
+> Some shader may have support for **custom buffers** which can greatly enhance visuals. It will be properly documented here later
+{: .prompt-tip }
 
 > - For **Android** you need [MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) 
 > - For **iOS** you need Minecraft with Hynis (available in our [Discord server](https://faizul726.github.io/newb-discord))
@@ -20,12 +23,19 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 {: .prompt-warning }
 
 ### New and Uncommon Shaders
-Work in progress...
+- [Alice Shader](https://github.com/MariallenaHax/Alice-Shader/releases/download/v4/Alice.26.60.mcpack) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader)
+- [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.9/ESBE-1G-rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^1])
+- [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.1/ISBE_rd.mcpack) (unofficially updated) (also supports Nintendo Switch[^1])
+- [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus/releases/download/v1.1.0/natural-mystic-plus-1.1.0.mcpack) (unofficial port) - [Screenshots (scroll down)](https://github.com/Rinloid/natural-mystic-plus/blob/172978dcd5e04aab6f6085306ecb33daae747149/README.md) <!--v1.1.0 Oct 30-->
 
 ---
 
 ### Newb Variants
-Work in progress...
+- [Newb X Future](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/download/9359372) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/gallery) <!--v16.51 Oct 30-->
+- [Newb X Horizon](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-horizon/download/9359380) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-horizon/gallery) <!--v15.21 Oct 30-->
+- Newb Complemetary [REIMAGINED](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/9359047)/ [UNBOUND](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/9359042) / [LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/9359040) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
+- Newb X Dragon [Reimagined](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/9358974)/ [Unbound](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/9358973) / [Lite](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-dragon/download/9358970) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
+- Newb X Ale [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/9358964) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/9358961) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale/download/9358962) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-ale)
 
 ---
 
