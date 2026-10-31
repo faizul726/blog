@@ -24,7 +24,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 
 ### New and Uncommon Shaders
 - [Yildirim Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9371730) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
-- [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9360329) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery)
+- [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9382516) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery)
 - [Mastomys Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/download/9350825) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/gallery) <!--v1.2.0 Oct 30-->
 - [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/9370055) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader) <!--Oct 30-->
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.9/ESBE-1G-rd.mcpack) (unofficial port) (also supports Nintendo Switch[^1])
@@ -34,6 +34,9 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 ---
 
 ### Newb Variants
+- [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/9381778) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
+- [Newb X Evermist](https://www.mediafire.com/file/xxmki1rld50ltni/Newb+X+Evermist+1.8.0.mcpack/file)
+- [Newb X Apocalipsis](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis/download/9373425) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis)
 - [Newb X Future](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/download/9359372) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/gallery) <!--v16.51 Oct 30-->
 - [Newb X Horizon](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-horizon/download/9359380) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-horizon/gallery) <!--v15.21 Oct 30-->
 - Newb Complemetary [REIMAGINED](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/9359047) / [UNBOUND](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/9359042) / [LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary/download/9359040) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-complementary)
