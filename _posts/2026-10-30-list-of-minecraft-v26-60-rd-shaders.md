@@ -24,7 +24,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 
 ### New and Uncommon Shaders
 - [Yildirim Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9371730) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
-- [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9382516) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery)
+- [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9384830) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--Oct 31 last hotfix I hope-->
 - [Mastomys Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/download/9350825) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/gallery) <!--v1.2.0 Oct 30-->
 - [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/9370055) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader) <!--Oct 30-->
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.9/ESBE-1G-rd.mcpack) (unofficial port) (also supports Nintendo Switch[^1])
@@ -34,6 +34,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 ---
 
 ### Newb Variants
+- [Newb Aerotion](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/download/9384409) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/gallery)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/9381778) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [Newb X Evermist](https://www.mediafire.com/file/xxmki1rld50ltni/Newb+X+Evermist+1.8.0.mcpack/file)
 - [Newb X Apocalipsis](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis/download/9373425) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-apocalipsis)
@@ -46,12 +47,12 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 ---
 
 ### Utility Shaders
-[FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/9370079) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery) <!--Oct 30-->
+- [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/9370079) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery) <!--Oct 30-->
 
 ---
 
 ### Deferred Shaders (shaders that require Vibrant Visuals[^2])
-Work in progress...
+- [Lynx's Post Processing](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing/download/9383662) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing/gallery)
 
 ---
 
