@@ -35,6 +35,9 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 ---
 
 ### Newb Variants
+> Newb Classic and shaders that are based on Newb X Legacy
+{: .prompt-info }
+
 - [Newb x Clear](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/9388637) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear)
 - [Newb Aerotion](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/download/9384409) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/gallery)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/9381778) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
@@ -48,8 +51,18 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 
 ---
 
-### Utility Shaders
+### Themed shaders
+> Shaders designed to match a specific genre’s visual style
+{: .prompt-info }
+
 - [Flashlight shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9394287) (add flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader)
+
+---
+
+### Utility Shaders
+> Shaders intended for specific purposes, such as night vision or displaying redstone power levels
+{: .prompt-info }
+
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/9370079) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery) <!--Oct 30-->
 
 ---
