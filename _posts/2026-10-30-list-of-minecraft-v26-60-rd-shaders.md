@@ -35,6 +35,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 ---
 
 ### Newb Variants
+- [Newb x Clear](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/9388637) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear)
 - [Newb Aerotion](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/download/9384409) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/gallery)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/9381778) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
 - [Newb X Evermist](https://www.mediafire.com/file/xxmki1rld50ltni/Newb+X+Evermist+1.8.0.mcpack/file)
@@ -48,11 +49,13 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 ---
 
 ### Utility Shaders
+- [Flashlight shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9394287) (add flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader)
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/9370079) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery) <!--Oct 30-->
 
 ---
 
 ### Deferred Shaders (shaders that require Vibrant Visuals[^2])
+- [PandaMine's Vibrant Visuals Optimizer](https://www.curseforge.com/minecraft-bedrock/texture-packs/pandamines-vibrant-visuals-optimizer/download/9387816) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/pandamines-vibrant-visuals-optimizer)
 - [Lynx's Post Processing](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing/download/9383662) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing/gallery)
 
 ---
