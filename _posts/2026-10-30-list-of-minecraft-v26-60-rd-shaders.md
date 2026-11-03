@@ -54,7 +54,8 @@ Newb Classic and shaders that are based on Newb X Legacy
 
 ### Themed shaders
 Shaders designed to match a specific genre’s visual style
-
+- [basically simple shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader/download/9415249) (RD shader that removes block, entity, and clouds shading, just like simply no shading) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/basically-simple-shader)
+- [classic graphics](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics/download/9415242) (RD shaders that'll match the visual look of java b1.7.3.) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/classic-graphics)
 - [Flashlight shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader/download/9394287) (add flashlight effect) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/flashlight-shader)
 
 ---
