@@ -23,14 +23,14 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 {: .prompt-warning }
 
 ### New and Uncommon Shaders
-- VHS Shader [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9394108) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9394105) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9394110) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/gallery) <!--TODO: move this to themed section after a few days, as requested by dev-->
+- [Nature Mystic Plus](https://www.curseforge.com/minecraft-bedrock/texture-packs/natural-mystic-plus/download/9426483) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/natural-mystic-plus/gallery) <!--v1.2.0 Nov 04-->
+- VHS Shader [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9421934) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9421939) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9421944) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/gallery) <!--v1.1 Nov 04--> <!--TODO: move this to themed section after a few days, as requested by dev-->
+- [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/9405234) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader) <!--Nov 04-->
 - [Yildirim Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9371730) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
 - [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9384830) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--Oct 31 last hotfix I hope-->
 - [Mastomys Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/download/9350825) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/gallery) <!--v1.2.0 Oct 30-->
-- [Alice Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader/download/9370055) (Wii U graphics style) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/alice-shader) <!--Oct 30-->
 - [ESBE 1G](https://github.com/MariallenaHax/ESBE-1G-rd/releases/download/v1.0.9/ESBE-1G-rd.mcpack) (unofficial port) (also supports Nintendo Switch[^1])
 - [ISBE RD](https://github.com/MariallenaHax/ISBE-rd/releases/download/v1.1.1/ISBE_rd.mcpack) (unofficial port) (also supports Nintendo Switch[^1])
-- [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus/releases/download/v1.1.0/natural-mystic-plus-1.1.0.mcpack) (unofficial port) - [Screenshots (scroll down)](https://github.com/Rinloid/natural-mystic-plus/blob/172978dcd5e04aab6f6085306ecb33daae747149/README.md) <!--v1.1.0 Oct 30-->
 
 ---
 
