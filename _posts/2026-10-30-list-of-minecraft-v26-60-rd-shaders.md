@@ -23,7 +23,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 {: .prompt-warning }
 
 ### New and Uncommon Shaders
-- VHS Shader [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9394108) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9394105) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9394110) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/gallery)
+- VHS Shader [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9394108) / [iOS](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9394105) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/download/9394110) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/vhs-be-shader/gallery) <!--TODO: move this to themed section after a few days, as requested by dev-->
 - [Yildirim Shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd/download/9371730) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/yildirm-shader-rd)
 - [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9384830) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--Oct 31 last hotfix I hope-->
 - [Mastomys Shaders](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/download/9350825) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/mastomys-shaders/gallery) <!--v1.2.0 Oct 30-->
@@ -36,6 +36,8 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 
 ### Newb Variants
 Newb Classic and shaders that are based on Newb X Legacy
+
+- [**Newb Classic**](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/9415377) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
 - [Newb x Clear](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/9388637) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear)
 - [Newb Aerotion](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/download/9384409) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/gallery)
