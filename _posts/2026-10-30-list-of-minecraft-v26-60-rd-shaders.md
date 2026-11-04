@@ -39,6 +39,7 @@ Newb Classic and shaders that are based on Newb X Legacy
 
 - [**Newb Classic**](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/9415377) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
 
+- [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/download/9434705) by a handsome guy - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - [Newb x Clear](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/9388637) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear)
 - [Newb Aerotion](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/download/9384409) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/gallery)
 - [Newb Tropisphere](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/download/9381778) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-tropisphere/gallery)
