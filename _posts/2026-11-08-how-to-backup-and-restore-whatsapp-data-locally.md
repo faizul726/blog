@@ -14,7 +14,7 @@ I wouldn't say that this is entirely my fault. WhatsApp themselves are also resp
 
 Yesterday, I was backing up all of my data as a part of my goal to fully get rid of Google Play Services and use microG. That's when I saw that besides Google Drive, it's possible to use WhatsApp cloud or whatever it's called. I wanted to take advantage of it as I didn't want to login my main Gmail with microG. So, I tried a lot of ways and I was unable to trigger a backup to that cloud. In the process I had deleted my Google Drive backup (which I had made as a precaution). 
 
-Then I realized I can make a local backup (supported by WhatsApp), I looked up and there's nothing of that on official WhatsApp help site. So, I added `site:reddit.com` to my query and looked up on Reddit threads. After reading, I took a backup of `Android/data/media/com.whatsapp/WhatsApp/Databases` folder and uninstalled WhatsApp thinking that's all the data. 
+Then I realized I can make a local backup (supported by WhatsApp), I looked up and there's nothing of that on official WhatsApp help site. So, I added `site:reddit.com` to my query and looked up on Reddit threads. After reading, I took a backup of `Android/data/media/com.whatsapp/WhatsApp/Databases`{: .filepath} folder and uninstalled WhatsApp thinking that's all the data. 
 
 And guess what? That `Databases` folder is not all, there were 2 more folders named `Backups` and `Media`. I realized that when I decided to check size of Databases folder. 
 
@@ -25,10 +25,10 @@ Okay, that's a lot of speech. I will write the main part now.
 
 ### How to backup
 > You must not be connected to internet in the process. Mainly because if someone sends you a message after you have made the backup, that new message will not be included.
-{: .prompt-caution }
+{: .prompt-danger }
 
 > WhatsApp UI/behavior may change over time so this guide may become partially or fully outdated
-{: .prompt-caution }
+{: .prompt-warning }
 
 1. Make sure you're logged in on a single device. If you're logged in on other devices, either log out or disconnect internet from other devices. As we need a single source of truth.
 2. Disconnect from internet on the main device
@@ -37,26 +37,27 @@ Okay, that's a lot of speech. I will write the main part now.
 5. Uninstall WhatsApp and do not login to WhatsApp or let it access internet in anyway (on other devices)
 6. Create an empty folder where you want to store.
 7. Create a blank/text file named `.nomedia` (optional, this will make sure your gallery doesn't get spammed with WhatsApp images)
-8. Copy `Android/media/com.whatsapp` folder (for WhatsApp Business, `Android/media/com.whatsapp.w4b`) to your folder that you created in step 6. Do note that those folders should contain folders like `Backups`, `Databases`, `Media` inside another folder. Take a note of size just to be sure.
+8. Copy `Android/media/com.whatsapp`{: .filepath} folder (for WhatsApp Business, `Android/media/com.whatsapp.w4b`{: .filepath}) to your folder that you created in step 6. Do note that those folders should contain folders like `Backups`, `Databases`, `Media` inside another folder. Take a note of size just to be sure.
 
 Now backup is done, let's go to restore part
 
 ### How to restore
 1. Copy your backed up folder `com.whatsapp` or `com.whatsapp.w4b` to `Android/media`. Make sure directory structure is same like this:
-```
-// Generated with https://utilitycove.com/tools/folder-structure-generator
 
-└── Android/
-    └── media/
-        └── com.whatsapp.w4b/
-            └── WhatsApp Business/
-                ├── Backups/
-                │   └── ...
-                ├── Databases/
-                │   └── ...
-                └── Media/
-                    └── ...
 ```
+Android/
+└── media/
+    └── com.whatsapp.w4b/
+        └── WhatsApp Business/
+            ├── Backups/
+            │   └── ...
+            ├── Databases/
+            │   └── ...
+            └── Media/
+                └── ...
+```
+{: file='Generated with https://utilitycove.com/tools/folder-structure-generator'}
+
 For normal WhatsApp it would be `com.whatsapp/WhatsApp`.
 
 2. Install WhatsApp

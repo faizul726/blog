@@ -18,13 +18,9 @@ excerpt: Guide on how to setup and use Wyvern on Windows
 Let's get straight to the topic. 
 
 ### Video tutorial
-<details><summary>Click to expand</summary>
+{% include embed/youtube.html id='YPGNs_saBtQ' %}
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YPGNs_saBtQ" title="How to use Wyvern for RenderDragon shaders on Windows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <br>
-  <a href="https://www.youtube.com/watch?v=YPGNs_saBtQ" target="_blank" rel="noreferrer noopener">Watch on YouTube</a>
-  
-</details>
+<a href="https://www.youtube.com/watch?v=YPGNs_saBtQ" target="_blank" rel="noreferrer noopener">Watch on YouTube</a>
 
 ## Installation
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/mcbegamerxx954/wyvern_releases/WyvernSetup.exe?displayAssetName=false&label=Lifetime%20downloads&color=0099ff&link=https%3A%2F%2Fgithub.com%2Fmcbegamerxx954%2Fwyvern_releases%2Freleases%2Flatest)  
