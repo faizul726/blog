@@ -22,7 +22,6 @@ This is the dumbest thing possible, I should have still made a backup to Google 
 
 Okay, that's a lot of speech. I will write the main part now.
 
-
 ---
 
 ### How to backup
