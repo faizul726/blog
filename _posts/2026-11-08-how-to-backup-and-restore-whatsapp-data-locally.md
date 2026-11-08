@@ -45,6 +45,7 @@ Now backup is done, let's go to restore part
 1. Copy your backed up folder `com.whatsapp` or `com.whatsapp.w4b` to `Android/media`. Make sure directory structure is same like this:
 
 ```
+// Generated with https://utilitycove.com/tools/folder-structure-generator
 Android/
 └── media/
     └── com.whatsapp.w4b/
@@ -56,7 +57,6 @@ Android/
             └── Media/
                 └── ...
 ```
-{: file='Generated with https://utilitycove.com/tools/folder-structure-generator'}
 
 For normal WhatsApp it would be `com.whatsapp/WhatsApp`.
 
