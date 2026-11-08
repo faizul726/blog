@@ -23,6 +23,8 @@ This is the dumbest thing possible, I should have still made a backup to Google 
 Okay, that's a lot of speech. I will write the main part now.
 
 
+---
+
 ### How to backup
 > You must not be connected to internet in the process. Mainly because if someone sends you a message after you have made the backup, that new message will not be included.
 {: .prompt-danger }
@@ -46,6 +48,7 @@ Now backup is done, let's go to restore part
 
 ```
 // Generated with https://utilitycove.com/tools/folder-structure-generator
+
 Android/
 └── media/
     └── com.whatsapp.w4b/
