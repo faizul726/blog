@@ -16,7 +16,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 > **Contact:** [Newb Community on Discord](https://faizul726.github.io/newb-discord)
 {: .prompt-warning }
 
-> **About CustomBuffers**
+> ### About CustomBuffers
 > Custom Buffers is a mod made by chromehaert that enhances RenderDragon shader capabilities by allowing them to get more information from the game.  
 > This lets shaders to implement features like dynamic shadows, true water reflection and much more. Currently, it's only available on Android.
 > 
@@ -33,8 +33,8 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 > <!-- It's a lie (- amg 2026) -->
 {: .prompt-info }
 
-> **Symbols explained**
-> ★ = Supports CustomBuffers
+> ### Symbols explained
+> ★ = Supports CustomBuffers  
 > 🎮 = Supports Nintendo Switch[^1]
 {: .prompt-tip }
 
@@ -56,13 +56,13 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 Newb Classic and shaders that are based on Newb X Legacy
 
 - [**Newb Classic**](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/download/9415377) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-shader/gallery)
-- Newb Glow Legacy [Default](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465996)/ [Barebone](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465925)/ [Dandelion X](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465913)/ [EasyBlocks](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465885)/ [Faitful 32x](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465873)/ [Faitful 64x](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465867)/ [PixelPerfectionLegacy](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465857) - [Screenshots (scoll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow)
+- Newb Glow Legacy [Default](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465996) / [Barebone](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465925) / [Dandelion X](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465913) / [EasyBlocks](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465885) / [Faitful 32x](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465873) / [Faitful 64x](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465867) / [PixelPerfectionLegacy](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow/download/9465857) - [Screenshots (scoll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-glow)
 - [Newb x Daydream](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-daydream/download/9402693) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-daydream/gallery)
 - [Newb X Future](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/download/9465831) [★] - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-future/gallery) <!--v15.22 Nov 08-->
 - [Newb X Horizon](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-horizon/download/9465843) [★] - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-horizon/gallery) <!--v15.22 Nov 08-->
-- Newb X Solstice [Default](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-solstice/download/9487652)/ [LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-solstice/download/9487643) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-solstice/gallery)
+- Newb X Solstice [Default](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-solstice/download/9487652) / [LITE](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-solstice/download/9487643) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-solstice/gallery)
 - [Newb X Supplementary](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/download/9489289) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-supplementary/gallery)
-- Newb x Unwind [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind/download/9489020)/ [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind/download/9488997) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind/gallery)
+- Newb x Unwind [Android](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind/download/9489020) / [Windows](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind/download/9488997) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-unwind/gallery)
 - [Newb Floren](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/download/9434705) by a handsome guy - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-floren/gallery)
 - [Newb x Clear](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear/download/9388637) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-clear)
 - [Newb Aerotion](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/download/9384409) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-aerotion-compatible-with-minecraft-26-50/gallery)
@@ -92,7 +92,7 @@ Shaders intended for specific purposes, such as night vision or displaying redst
 ---
 
 ### Deferred Shaders (shaders that require Vibrant Visuals[^2])
-- **Mirai v4.0.0** [Android](https://github.com/bambosan/mirai/releases/download/4.0.0/mirai-android-4.0.0.mcpack)/ [Windows](https://github.com/bambosan/mirai/releases/download/4.0.0/mirai-windows-4.0.0.mcpack)/ [iOS](https://github.com/bambosan/mirai/releases/download/4.0.0/mirai-ios-4.0.0.mcpack) - [Website](https://bambosan.github.io/mirai)
+- **Mirai v4.0.0** [Android](https://github.com/bambosan/mirai/releases/download/4.0.0/mirai-android-4.0.0.mcpack) / [Windows](https://github.com/bambosan/mirai/releases/download/4.0.0/mirai-windows-4.0.0.mcpack) / [iOS](https://github.com/bambosan/mirai/releases/download/4.0.0/mirai-ios-4.0.0.mcpack) - [Website](https://bambosan.github.io/mirai)
 - [PandaMine's Vibrant Visuals Optimizer](https://www.curseforge.com/minecraft-bedrock/texture-packs/pandamines-vibrant-visuals-optimizer/download/9387816) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/pandamines-vibrant-visuals-optimizer)
 - [Lynx's Post Processing](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing/download/9383662) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing/gallery)
 
