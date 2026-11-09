@@ -76,6 +76,7 @@ Shaders intended for specific purposes, such as night vision or displaying redst
 ---
 
 ### Deferred Shaders (shaders that require Vibrant Visuals[^2])
+- Mirai v4.0.0 [Android](https://github.com/bambosan/mirai/releases/download/4.0.0/mirai-android-4.0.0.mcpack)/ [Windows](https://github.com/bambosan/mirai/releases/download/4.0.0/mirai-windows-4.0.0.mcpack)/ [iOS](https://github.com/bambosan/mirai/releases/download/4.0.0/mirai-ios-4.0.0.mcpack) - [Website](https://bambosan.github.io/mirai)
 - [PandaMine's Vibrant Visuals Optimizer](https://www.curseforge.com/minecraft-bedrock/texture-packs/pandamines-vibrant-visuals-optimizer/download/9387816) - [Screenshots (scroll down)](https://www.curseforge.com/minecraft-bedrock/texture-packs/pandamines-vibrant-visuals-optimizer)
 - [Lynx's Post Processing](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing/download/9383662) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/lynxs-post-processing/gallery)
 
