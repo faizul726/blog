@@ -16,7 +16,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 > **Contact:** [Newb Community on Discord](https://faizul726.github.io/newb-discord)
 {: .prompt-warning }
 
-> ### About CustomBuffers
+> **About CustomBuffers** 
 > Custom Buffers is a mod made by chromehaert that enhances RenderDragon shader capabilities by allowing them to get more information from the game.  
 > This lets shaders to implement features like dynamic shadows, true water reflection and much more. Currently, it's only available on Android.
 > 
@@ -33,7 +33,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 > <!-- It's a lie (- amg 2026) -->
 {: .prompt-info }
 
-> ### Symbols explained
+> **Symbols explained** 
 > ★ = Supports CustomBuffers  
 > 🎮 = Supports Nintendo Switch[^1]
 {: .prompt-tip }
