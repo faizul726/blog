@@ -3,7 +3,7 @@ title: List of Minecraft v26.60+ Compatible RenderDragon Shaders
 date: 2026-10-30 07:40:00 +0600
 categories: [Minecraft, Modding]
 tags: [minecraft, bedrock, mb loader, hynis, wyvern, shaders, renderdragon]     # TAG names should always be lowercase
-media_subpath: /assets/images/
+media_subpath: /assets/2026-10-30-list-of-minecraft-v26-60-rd-shaders/
 
 #image: thumbnail.png
 excerpt: Community-maintained list of RenderDragon shaders that work on Minecraft v26.60+
