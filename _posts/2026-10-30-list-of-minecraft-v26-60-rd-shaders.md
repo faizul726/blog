@@ -86,7 +86,7 @@ Shaders designed to match a specific genre’s visual style
 
 ### Utility Shaders
 Shaders intended for specific purposes, such as night vision or displaying redstone power levels
-
+- [RedstoneTech shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/download/9557806) (Add restone/lightmap indicator...) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/redstonetech-shader/gallery)
 - [FullBright RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/download/9370079) (permanent night vision effect) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/fullbright-rd/gallery) <!--Oct 30-->
 
 ---
