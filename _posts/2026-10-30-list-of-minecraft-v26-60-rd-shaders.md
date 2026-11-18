@@ -39,7 +39,7 @@ excerpt: Community-maintained list of RenderDragon shaders that work on Minecraf
 {: .prompt-tip }
 
 ### New and Uncommon Shaders
-- [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9384830) [★] - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--Nov 18 update-->
+- [IzH RD shader](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/download/9625122) [★] - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/izh-rd-official/gallery) <!--Nov 18 update-->
 - [Rebuilt Shader RD](https://github.com/faizul118/files/raw/1d0aaf81e6d5e993c50ec2a0d400199a40f57804/RenderDragon%20Shaders/v26.60/ReBuiltShaderRD-v1.26.60-multiplatform-20261107.zip.mcpack) (unofficial port)
 - [Enhanced Vanilla RD](https://github.com/faizul118/files/raw/1d0aaf81e6d5e993c50ec2a0d400199a40f57804/RenderDragon%20Shaders/v26.60/EnhancedVanillaRD-v1.26.60-multiplatform-20261107.zip.mcpack) (unofficial port)
 - [Nature Mystic Plus](https://www.curseforge.com/minecraft-bedrock/texture-packs/natural-mystic-plus/download/9426483) - [Screenshots](https://www.curseforge.com/minecraft-bedrock/texture-packs/natural-mystic-plus/gallery) <!--v1.2.0 Nov 04-->
