@@ -6,7 +6,7 @@ tags: [minecraft, bedrock, mb loader, hynis, wyvern, shaders, renderdragon]     
 #media_subpath: 
 
 #image: thumbnail.png
-excerpt: Previously community-maintained list of RenderDragon shaders that worked on Minecraft v26.50 - v26.52
+excerpt: Previously community-maintained list of RenderDragon shaders that work on Minecraft v26.50 - v26.52
 ---
 
 <!--
